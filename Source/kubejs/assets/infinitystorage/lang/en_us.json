@@ -1,0 +1,8 @@
+{
+  "itemGroup.infinitystorage": "Infinity Storage",
+  "block.infinitystorage.infinity_storage_drive": "Infinity Storage Drive Block",
+  "item.infinitystorage.infinity_cobblestone_drive": "Infinity Cobblestone Drive",
+  "item.infinitystorage.infinity_water_drive": "Infinity Water Drive",
+  "item.infinitystorage.infinity_lava_drive": "Infinity Lava Drive",
+  "item.infinitystorage.empty_infinity_drive": "Empty Infinity Drive"
+}

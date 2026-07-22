@@ -1,0 +1,19 @@
+{
+  "block.starforge.blue_star": "Blue Star",
+  "block.starforge.cosmic_pillar": "Cosmic Pillar",
+  "block.starforge.cosmic_planks": "Cosmic Planks",
+  "block.starforge.orange_star": "Orange Star",
+  "block.starforge.pedestal": "Star Forge Pedestal",
+  "block.starforge.red_star": "Red Star",
+  "block.starforge.star_forge": "Star Forge",
+  "block.starforge.tier_1_star_forge_cap": "Tier 1 Star Forge Cap",
+  "block.starforge.tier_2_star_forge_cap": "Tier 2 Star Forge Cap",
+  "block.starforge.tier_3_star_forge_cap": "Tier 3 Star Forge Cap",
+  "block.starforge.tier_4_star_forge_cap": "Tier 4 Star Forge Cap",
+  "block.starforge.tier_5_star_forge_cap": "Tier 5 Star Forge Cap",
+  "block.starforge.white_star": "White Star",
+  "block.starforge.yellow_star": "Yellow Star",
+  "item.starforge.star_gem": "Star Gem",
+  "item.starforge.star_ingot": "Star Ingot",
+  "itemGroup.starforge": "Star Forge"
+}
