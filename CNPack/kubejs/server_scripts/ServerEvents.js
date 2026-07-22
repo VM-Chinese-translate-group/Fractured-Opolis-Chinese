@@ -25,7 +25,7 @@ PlayerEvents.tick(event => {
 
     if (player.y < 300 && player.y > 290 && !player.tags.contains('given_ship') && !player.isCreative() && !player.isSpectator()) {
 
-        player.tell(`${player.profile.name} incoming !!!!`)
+        player.tell(Text.translate('fractured.gyro.incoming', player.profile.name))
         //player.potionEffects.add('minecraft:blindness', 100, 0)
 
         server.scheduleInTicks(20, () => {
@@ -41,22 +41,22 @@ PlayerEvents.tick(event => {
         })
 
         server.scheduleInTicks(35, () => {
-            player.tell(`${player.profile.name} we got you!`)
+            player.tell(Text.translate('fractured.gyro.saved', player.profile.name))
         })
 
         server.scheduleInTicks(50, () => {
             // Title
             server.runCommandSilent(
-                `execute as ${player.uuid} at ${player.uuid} run title ${player.uuid} title '{"text":"Fractured","color":"red","bold":true}'`
+                `execute as ${player.uuid} at ${player.uuid} run title ${player.uuid} title '{"translate":"fractured.title","color":"red","bold":true}'`
             )
             // Subtitle
             server.runCommandSilent(
-                `execute as ${player.uuid} at ${player.uuid} run title ${player.uuid} subtitle '{"text":"by benbenlaw","color":"yellow"}'`
+                `execute as ${player.uuid} at ${player.uuid} run title ${player.uuid} subtitle '{"translate":"fractured.subtitle","color":"yellow"}'`
             )
         })
 
         server.scheduleInTicks(80, () => {
-            player.tell(`Start the engine (Hold Forward)`)
+            player.tell(Text.translate('fractured.gyro.start_engine'))
         })
 
 
@@ -78,10 +78,10 @@ EntityEvents.spawned(event => {
     const dimension = event.level.dimension
 
     if (dimension == 'undergarden:undergarden') {
-        event.entity.tell('You have entered the Undergarden. Be careful, it is a dangerous place!')
+        event.entity.tell(Text.translate('fractured.dimension.undergarden'))
     }
     if (dimension == 'minecraft:overworld') {
-        event.entity.tell('Home sweet home!')
+        event.entity.tell(Text.translate('fractured.dimension.overworld'))
     }
 })
 
@@ -109,10 +109,10 @@ ItemEvents.rightClicked('fractured:lightning_charge', event => {
             }
         } 
         else {
-            player.tell('You need to be wearing a full set of Faraday Armor to use this item!')
+            player.tell(Text.translate('fractured.lightning_charge.no_armor'))
         }
     } else {
-        player.tell('You need to be standing on a Immersive Engineering Lightning Rod to use this item!')
+        player.tell(Text.translate('fractured.lightning_charge.no_rod'))
     }
 })
 
@@ -120,7 +120,7 @@ ItemEvents.rightClicked('fractured:lightning_charge', event => {
 ItemEvents.rightClicked('fractured:main_island_teleporter', event => {
     const { player, level, hand, item } = event
 
-    if (level.clientSide) retur
+    if (level.clientSide) return
 
     if (level.dimension == 'minecraft:the_end') {
 
@@ -131,7 +131,7 @@ ItemEvents.rightClicked('fractured:main_island_teleporter', event => {
         }
     } 
     else {
-        player.tell('You need to be in The End to use this item!')
+        player.tell(Text.translate('fractured.teleporter.not_in_end'))
     }
     
 })
@@ -169,7 +169,7 @@ ItemEvents.rightClicked('fractured:catacombs_locator', event => {
             item.count--
         }
     } else {
-        player.displayClientMessage(Component.literal('§cNo Catacombs found nearby!'), true)
+        player.displayClientMessage(Text.translate('fractured.locator.catacombs_not_found'), true)
     }
 })
 
@@ -194,7 +194,7 @@ ItemEvents.rightClicked('fractured:malachite_watchtower_locator', event => {
             item.count--
         }
     } else {
-        player.displayClientMessage(Component.literal('§cNo Malachite Watchtower found nearby!'), true)
+        player.displayClientMessage(Text.translate('fractured.locator.malachite_not_found'), true)
     }
 })
 
@@ -221,14 +221,9 @@ ServerEvents.commandRegistry(event => {
                     let capacity = reservoir.getCapacity();
                     let percent = ((amount / capacity) * 100).toFixed(1);
 
-                    player.tell([
-                        Component.gold("Found "),
-                        Component.yellow(name),
-                        Component.gold(" reservoir! "),
-                        Component.white(`(${percent}% full)`)
-                    ]);
+                    player.tell(Text.translate('fractured.reservoir.found', name, percent));
                 } else {
-                    player.tell(Component.red("No reservoir found at your current coordinates."));
+                    player.tell(Text.translate('fractured.reservoir.not_found').red());
                 }
 
                 return 1;

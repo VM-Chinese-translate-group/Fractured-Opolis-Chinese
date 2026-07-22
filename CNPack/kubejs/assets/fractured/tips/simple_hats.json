@@ -1,5 +1,5 @@
 {
-  "type":"tipsmod:simple",
-  "text": "Simple Hats are simply awesome!",
-  "color": "white"
+  "type": "tipsmod:simple",
+  "color": "white",
+  "translate": "tip.fractured.simple_hats"
 }

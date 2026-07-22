@@ -5,7 +5,7 @@ const $ItemProperties = Java.loadClass("net.minecraft.world.item.Item$Properties
 
 StartupEvents.registry('item', event => {
 
-    //Misc
+    // Misc
     event.createCustom('fractured:flint_and_stick', () => 
         new $FlintAndSteelItem(new $ItemProperties().durability(4))
     )
@@ -18,7 +18,7 @@ StartupEvents.registry('item', event => {
     event.create('fractured:grout_brick')
     event.create('fractured:small_coal_coke')
     event.create('fractured:netherrack_rocks')
-    event.create('fractured:dye_extractor').maxStackSize(1).maxDamage(127).tooltip('Used to extract dyes from certain blocks. Right-click on a valid block to extract its dye.')
+    event.create('fractured:dye_extractor').maxStackSize(1).maxDamage(127).tooltip(Text.translate('tooltip.fractured.dye_extractor'))
     event.create('fractured:blueprint_paper')
     event.create('fractured:wheat_flour').tag(['c:wheat_flour', 'c:dusts'])
     event.create('fractured:lightning_charge')
@@ -34,11 +34,11 @@ StartupEvents.registry('item', event => {
     event.create('fractured:ash')
 
 
-    //Template
+    // Template
     event.create('fractured:cloggrum_template')
     event.create('fractured:froststeel_template')
 
-    //Catalysts
+    // Catalysts
     event.create('fractured:forgotten_catalyst')
     event.create('fractured:colored_catalyst')
     event.create('fractured:gaia_catalyst')
@@ -46,31 +46,31 @@ StartupEvents.registry('item', event => {
     event.create('fractured:end_catalyst')
     event.create('fractured:overworld_catalyst')
 
-    //Tool Binding
-    event.create('fractured:leafy_binding').tag('fractured:bindings').tooltip('A binding made of leaves. Gives Unbreaking I to your tools.')
-    event.create('fractured:reinforced_binding').tag('fractured:bindings').tooltip('A binding reinforced with string. Gives Unbreaking II to your tools.')
-    event.create('fractured:steel_binding').tag('fractured:bindings').tooltip('A binding reinforced with steel. Gives Unbreaking III to your tools.')
-    event.create('fractured:diamond_binding').tag('fractured:bindings').tooltip('A binding reinforced with diamond. Gives Unbreaking IV to your tools.')
-    event.create('fractured:netherite_binding').tag('fractured:bindings').tooltip('A binding made of netherite. Gives Unbreaking V to your tools.')
+    // Tool Binding
+    event.create('fractured:leafy_binding').tag('fractured:bindings').tooltip(Text.translate('tooltip.fractured.leafy_binding'))
+    event.create('fractured:reinforced_binding').tag('fractured:bindings').tooltip(Text.translate('tooltip.fractured.reinforced_binding'))
+    event.create('fractured:steel_binding').tag('fractured:bindings').tooltip(Text.translate('tooltip.fractured.steel_binding'))
+    event.create('fractured:diamond_binding').tag('fractured:bindings').tooltip(Text.translate('tooltip.fractured.diamond_binding'))
+    event.create('fractured:netherite_binding').tag('fractured:bindings').tooltip(Text.translate('tooltip.fractured.netherite_binding'))
     
-    //Locators
-    event.create('fractured:catacombs_locator').maxStackSize(16).tooltip('Right-click to locate a Catacombs inside the Undergarden')
-    event.create('fractured:malachite_watchtower_locator').maxStackSize(16).tooltip('Right-click to locate a Malachite Watchtower inside the Gaia Dimension')
+    // Locators
+    event.create('fractured:catacombs_locator').maxStackSize(16).tooltip(Text.translate('tooltip.fractured.catacombs_locator'))
+    event.create('fractured:malachite_watchtower_locator').maxStackSize(16).tooltip(Text.translate('tooltip.fractured.malachite_watchtower_locator'))
 
-    //Tool Molds
+    // Tool Molds
     event.create('fractured:axe_mold').tag(['c:molds/axe', 'casting:molds'])
     event.create('fractured:hoe_mold').tag(['c:molds/hoe', 'casting:molds'])
     event.create('fractured:pickaxe_mold').tag(['c:molds/pickaxe', 'casting:molds'])
     event.create('fractured:shovel_mold').tag(['c:molds/shovel', 'casting:molds'])
     event.create('fractured:sword_mold').tag(['c:molds/sword', 'casting:molds'])
 
-    //Ore Tiers 
+    // Ore Tiers 
     oreTypes.forEach(ore => {
         event.create(`fractured:impure_${ore}`).tag([`c:impure_${ore}s`])
         event.create(`fractured:pure_${ore}`).tag([`c:pure_${ore}s`]).glow(true)
     })
 
-    //Catalogs
+    // Catalogs
     event.create('fractured:survival_catalog').displayName('Catalog: Survival').tag('shops:catalogs').maxStackSize(1).glow(true)
     event.create('fractured:hot_hot_hot_catalog').displayName('Catalog: Hot Hot Hot').tag('shops:catalogs').maxStackSize(1).glow(true)
     event.create('fractured:undergarden_catalog').displayName('Catalog: Undergarden').tag('shops:catalogs').maxStackSize(1).glow(true)
@@ -81,7 +81,7 @@ StartupEvents.registry('item', event => {
     event.create('fractured:nether_catalog').displayName('Catalog: Nether').tag('shops:catalogs').maxStackSize(1).glow(true)
     event.create('fractured:end_catalog').displayName('Catalog: End').tag('shops:catalogs').maxStackSize(1).glow(true)
 
-    //Tool Parts
+    // Tool Parts
     materials.forEach(material => {
         createToolPart(material)
     })

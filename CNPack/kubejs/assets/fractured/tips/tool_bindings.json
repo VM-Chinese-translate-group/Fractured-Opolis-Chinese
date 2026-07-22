@@ -1,5 +1,5 @@
 {
-  "type":"tipsmod:simple",
-  "text": "Better bindings make tools last longer!",
-  "color": "white"
+  "type": "tipsmod:simple",
+  "color": "white",
+  "translate": "tip.fractured.tool_bindings"
 }

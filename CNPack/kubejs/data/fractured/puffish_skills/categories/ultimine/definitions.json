@@ -1,92 +1,98 @@
 {
-	"ultimine+1": {
-		"title": "+1 Block (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:iron_pickaxe"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "ftbultimine:max_blocks_modifier",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "19hqh34504ot1tm8"
-		},
-		"cost": 1
-	},
-	"ultimine+2": {
-		"title": "+2 Blocks (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:golden_pickaxe"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "ftbultimine:max_blocks_modifier",
-					"value": 2,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "60su67dfbuv85ph3"
-		},
-		"cost": 3
-	},
-	"ultimine+3": {
-		"title": "+3 Blocks (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:diamond_pickaxe"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "ftbultimine:max_blocks_modifier",
-					"value": 3,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "jk8zzy3jvwr84ark"
-		},
-		"cost": 5
-	}
+    "ultimine+1": {
+        "title": {
+            "translate": "puffish_skills.skills.ultimine.ultimine_1_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:iron_pickaxe"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "ftbultimine:max_blocks_modifier",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "19hqh34504ot1tm8"
+        },
+        "cost": 1
+    },
+    "ultimine+2": {
+        "title": {
+            "translate": "puffish_skills.skills.ultimine.ultimine_2_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:golden_pickaxe"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "ftbultimine:max_blocks_modifier",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "60su67dfbuv85ph3"
+        },
+        "cost": 3
+    },
+    "ultimine+3": {
+        "title": {
+            "translate": "puffish_skills.skills.ultimine.ultimine_3_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond_pickaxe"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "ftbultimine:max_blocks_modifier",
+                    "value": 3,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "jk8zzy3jvwr84ark"
+        },
+        "cost": 5
+    }
 }

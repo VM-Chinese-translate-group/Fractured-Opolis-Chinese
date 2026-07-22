@@ -1,5 +1,5 @@
 {
-  "type":"tipsmod:simple",
-  "text": "Strainers have upgrades speed and chance",
-  "color": "white"
+  "type": "tipsmod:simple",
+  "color": "white",
+  "translate": "tip.fractured.strainers"
 }

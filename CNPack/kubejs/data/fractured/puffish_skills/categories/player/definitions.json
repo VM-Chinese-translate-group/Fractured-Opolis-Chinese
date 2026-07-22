@@ -1,840 +1,896 @@
 {
-	"fortune+0.1": {
-		"title": "+0.1 Fortune (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:diamond"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.fortune",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "y0m5a4e2agzzn532"
-		},
-		"cost": 1
-	},
-	"fortune+0.2": {
-		"title": "+0.2 Fortune (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:diamond"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.fortune",
-					"value": 0.2,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "w34goy17wp2pcl1b"
-		},
-		"cost": 3
-	},
-	"fortune+0.3": {
-		"title": "+0.3 Fortune (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:diamond"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.fortune",
-					"value": 0.3,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "x7fzzc8obyxt3wxr"
-		},
-		"cost": 5
-	},
-	"mining_speed+3%": {
-		"title": "Adds 3% Mining Speed (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "haste"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.mining_speed",
-					"value": 0.03,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "sy9ce1hhyq0cm6o4"
-		},
-		"cost": 1
-	},
-	"mining_speed+4%": {
-		"title": "Adds 4% Mining Speed (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "haste"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.mining_speed",
-					"value": 0.04,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "e5373k2273acm1m0"
-		},
-		"cost": 3
-	},
-	"mining_speed+5%": {
-		"title": "Adds 5% Mining Speed (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "haste"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.mining_speed",
-					"value": 0.05,
-					"operation": "multiply_base"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "15mkp25h40gpkpj0"
-		},
-		"cost": 5
-	},
-	"health+0.5": {
-		"title": "Adds Half a Heart of Max Health (3 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "health_boost"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.max_health",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "oid8sdncscw46jue"
-		},
-		"cost": 3
-	},
-	"health+1": {
-		"title": "Adds 1 Heart of Max Health (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "health_boost"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.max_health",
-					"value": 2,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "22oiz6oty2ryop4d"
-		},
-		"cost": 5
-	},
-	"stamina+3%": {
-		"title": "+3% Stamina (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "saturation"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.stamina",
-					"value": 0.03,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "h7sfp3t8tmoa62pi"
-		},
-		"cost": 1
-	},
-	"stamina+4%": {
-		"title": "+4% Stamina (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "saturation"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.stamina",
-					"value": 0.04,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "s6d8h3xzyr40ltai"
-		},
-		"cost": 3
-	},
-	"stamina+5%": {
-		"title": "+5% Stamina (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "saturation"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.stamina",
-					"value": 0.05,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "ekzarlqf2q4mmcfo"
-		},
-		"cost": 5
-	},
-	"healing+1%": {
-		"title": "+1% Healing (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "regeneration"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.healing",
-					"value": 0.01,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "i9ba5ov332vv7rjb"
-		},
-		"cost": 1
-	},
-	"healing+2%": {
-		"title": "+2% Healing (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "regeneration"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.healing",
-					"value": 0.02,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "gv4smj4on62b4qpa"
-		},
-		"cost": 3
-	},
-	"healing+3%": {
-		"title": "+3% Healing (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "regeneration"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_skills:player.healing",
-					"value": 0.01,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "v1uo8wu9xfbzhw6g"
-		},
-		"cost": 5
-	},
-	"movement_speed+3%": {
-		"title": "+3% Movement Speed (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "speed"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.movement_speed",
-					"value": 0.03,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "4fuo6f0i1glpd9d6"
-		},
-		"cost": 1
-	},
-	"movement_speed+4%": {
-		"title": "+4% Movement Speed (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "speed"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.movement_speed",
-					"value": 0.04,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "sp2h44wgq7k05ish"
-		},
-		"cost": 3
-	},
-	"movement_speed+5%": {
-		"title": "+5% Movement Speed (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "speed"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.movement_speed",
-					"value": 0.05,
-					"operation": "multiply_total"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "d0lv8umjkq9nksu5"
-		},
-		"cost": 5
-	},
-	"luck+0.1": {
-		"title": "+0.1 Luck (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "luck"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.luck",
-					"value": 0.1,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "93rqawq5g4wyf748"
-		},
-		"cost": 1
-	},
-	"luck+0.2": {
-		"title": "+0.2 Luck (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "luck"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.luck",
-					"value": 0.2,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "2hupa7et18c1ro9g"
-		},
-		"cost": 3
-	},
-	"luck+0.3": {
-		"title": "+0.3 Luck (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "luck"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.luck",
-					"value": 0.3,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "6i27npy1zcnml3wu"
-		},
-		"cost": 5
-	},
-	"attack+0.5": {
-		"title": "+0.5 Attack (1 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "strength"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.attack_damage",
-					"value": 0.5,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 1,
-		"metadata": {
-			"icon": "0zv3pzlqonya2t0j"
-		}
-	},
-	"attack+1.0": {
-		"title": "+1.0 Attack (3 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "strength"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.attack_damage",
-					"value": 1,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 3,
-		"metadata": {
-			"icon": "zgsj4zmvzvyi6ov5"
-		}
-	},
-	"attack+1.5": {
-		"title": "+1.5 Attack (5 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "strength"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "generic.attack_damage",
-					"value": 1.5,
-					"operation": "addition"
-				}
-			}
-		],
-		"cost": 5,
-		"metadata": {
-			"icon": "le347g2nkwfbzr2m"
-		}
-	},
-	"tree_faller": {
-		"title": "Tree Capitator (10 Points)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/emerald_obtained.png",
-				"available": "fractured:textures/frames/emerald_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:oak_log"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:command",
-				"data": {
-					"command": "tag @p add tree_faller"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "y0m5a4e2agzzn532"
-		},
-		"cost": 10
-	},
-	"consuming+0.1": {
-		"title": "+0.1 Consuming (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "item",
-			"data": {
-				"item": "minecraft:apple"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "puffish_attributes:consuming_speed",
-					"value": 0.01,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "y0m5a4e2agzzn532"
-		},
-		"cost": 1
-	},
-	"critchance+0.01": {
-		"title": "+0.01 Critical Hit Chance (1 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/iron_obtained.png",
-				"available": "fractured:textures/frames/iron_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "strength"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "apothic_attributes:crit_chance",
-					"value": 0.01,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "y0m5a4e2agzzn532"
-		},
-		"cost": 1
-	},
-	"critdamage+0.02": {
-		"title": "+0.02 Critical Hit Damage (3 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/gold_obtained.png",
-				"available": "fractured:textures/frames/gold_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "strength"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "apothic_attributes:crit_damage",
-					"value": 0.02,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "y0m5a4e2agzzn532"
-		},
-		"cost": 3
-	},
-	"critdamage+0.04": {
-		"title": "+0.04 Critical Hit Damage (5 Point)",
-		"frame": {
-			"type": "texture",
-			"data": {
-				"unlocked": "fractured:textures/frames/diamond_obtained.png",
-				"available": "fractured:textures/frames/diamond_unobtained.png"
-			}
-		},
-		"icon": {
-			"type": "effect",
-			"data": {
-				"effect": "strength"
-			}
-		},
-		"rewards": [
-			{
-				"type": "puffish_skills:attribute",
-				"data": {
-					"attribute": "apothic_attributes:crit_damage",
-					"value": 0.04,
-					"operation": "addition"
-				}
-			}
-		],
-		"metadata": {
-			"icon": "y0m5a4e2agzzn532"
-		},
-		"cost": 5
-	}
+    "fortune+0.1": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.fortune_0_1_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.fortune",
+                    "value": 0.1,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "y0m5a4e2agzzn532"
+        },
+        "cost": 1
+    },
+    "fortune+0.2": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.fortune_0_2_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.fortune",
+                    "value": 0.2,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "w34goy17wp2pcl1b"
+        },
+        "cost": 3
+    },
+    "fortune+0.3": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.fortune_0_3_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.fortune",
+                    "value": 0.3,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "x7fzzc8obyxt3wxr"
+        },
+        "cost": 5
+    },
+    "mining_speed+3%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.mining_speed_3_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "haste"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.mining_speed",
+                    "value": 0.03,
+                    "operation": "multiply_base"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "sy9ce1hhyq0cm6o4"
+        },
+        "cost": 1
+    },
+    "mining_speed+4%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.mining_speed_4_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "haste"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.mining_speed",
+                    "value": 0.04,
+                    "operation": "multiply_base"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "e5373k2273acm1m0"
+        },
+        "cost": 3
+    },
+    "mining_speed+5%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.mining_speed_5_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "haste"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.mining_speed",
+                    "value": 0.05,
+                    "operation": "multiply_base"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "15mkp25h40gpkpj0"
+        },
+        "cost": 5
+    },
+    "health+0.5": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.health_0_5_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "health_boost"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.max_health",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "oid8sdncscw46jue"
+        },
+        "cost": 3
+    },
+    "health+1": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.health_1_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "health_boost"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.max_health",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "22oiz6oty2ryop4d"
+        },
+        "cost": 5
+    },
+    "stamina+3%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.stamina_3_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "saturation"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.stamina",
+                    "value": 0.03,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "h7sfp3t8tmoa62pi"
+        },
+        "cost": 1
+    },
+    "stamina+4%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.stamina_4_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "saturation"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.stamina",
+                    "value": 0.04,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "s6d8h3xzyr40ltai"
+        },
+        "cost": 3
+    },
+    "stamina+5%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.stamina_5_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "saturation"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.stamina",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "ekzarlqf2q4mmcfo"
+        },
+        "cost": 5
+    },
+    "healing+1%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.healing_1_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "regeneration"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.healing",
+                    "value": 0.01,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "i9ba5ov332vv7rjb"
+        },
+        "cost": 1
+    },
+    "healing+2%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.healing_2_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "regeneration"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.healing",
+                    "value": 0.02,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "gv4smj4on62b4qpa"
+        },
+        "cost": 3
+    },
+    "healing+3%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.healing_3_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "regeneration"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:player.healing",
+                    "value": 0.01,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "v1uo8wu9xfbzhw6g"
+        },
+        "cost": 5
+    },
+    "movement_speed+3%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.movement_speed_3_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "speed"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.movement_speed",
+                    "value": 0.03,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "4fuo6f0i1glpd9d6"
+        },
+        "cost": 1
+    },
+    "movement_speed+4%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.movement_speed_4_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "speed"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.movement_speed",
+                    "value": 0.04,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "sp2h44wgq7k05ish"
+        },
+        "cost": 3
+    },
+    "movement_speed+5%": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.movement_speed_5_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "speed"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.movement_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "d0lv8umjkq9nksu5"
+        },
+        "cost": 5
+    },
+    "luck+0.1": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.luck_0_1_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "luck"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.luck",
+                    "value": 0.1,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "93rqawq5g4wyf748"
+        },
+        "cost": 1
+    },
+    "luck+0.2": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.luck_0_2_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "luck"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.luck",
+                    "value": 0.2,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "2hupa7et18c1ro9g"
+        },
+        "cost": 3
+    },
+    "luck+0.3": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.luck_0_3_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "luck"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.luck",
+                    "value": 0.3,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "6i27npy1zcnml3wu"
+        },
+        "cost": 5
+    },
+    "attack+0.5": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.attack_0_5_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "strength"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.attack_damage",
+                    "value": 0.5,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "cost": 1,
+        "metadata": {
+            "icon": "0zv3pzlqonya2t0j"
+        }
+    },
+    "attack+1.0": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.attack_1_0_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "strength"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.attack_damage",
+                    "value": 1,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "cost": 3,
+        "metadata": {
+            "icon": "zgsj4zmvzvyi6ov5"
+        }
+    },
+    "attack+1.5": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.attack_1_5_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "strength"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "generic.attack_damage",
+                    "value": 1.5,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "cost": 5,
+        "metadata": {
+            "icon": "le347g2nkwfbzr2m"
+        }
+    },
+    "tree_faller": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.tree_faller_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/emerald_obtained.png",
+                "available": "fractured:textures/frames/emerald_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:oak_log"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:command",
+                "data": {
+                    "command": "tag @p add tree_faller"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "y0m5a4e2agzzn532"
+        },
+        "cost": 10
+    },
+    "consuming+0.1": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.consuming_0_1_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:apple"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:consuming_speed",
+                    "value": 0.01,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "y0m5a4e2agzzn532"
+        },
+        "cost": 1
+    },
+    "critchance+0.01": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.critchance_0_01_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/iron_obtained.png",
+                "available": "fractured:textures/frames/iron_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "strength"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "apothic_attributes:crit_chance",
+                    "value": 0.01,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "y0m5a4e2agzzn532"
+        },
+        "cost": 1
+    },
+    "critdamage+0.02": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.critdamage_0_02_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/gold_obtained.png",
+                "available": "fractured:textures/frames/gold_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "strength"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "apothic_attributes:crit_damage",
+                    "value": 0.02,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "y0m5a4e2agzzn532"
+        },
+        "cost": 3
+    },
+    "critdamage+0.04": {
+        "title": {
+            "translate": "puffish_skills.skills.player_perks.critdamage_0_04_title"
+        },
+        "frame": {
+            "type": "texture",
+            "data": {
+                "unlocked": "fractured:textures/frames/diamond_obtained.png",
+                "available": "fractured:textures/frames/diamond_unobtained.png"
+            }
+        },
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "strength"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "apothic_attributes:crit_damage",
+                    "value": 0.04,
+                    "operation": "addition"
+                }
+            }
+        ],
+        "metadata": {
+            "icon": "y0m5a4e2agzzn532"
+        },
+        "cost": 5
+    }
 }

@@ -1,12 +1,12 @@
 {
   "modpack": {
-    "name": "整合包名字",
-    "version": "汉化适配的整合包版本",
+    "name": "Fractured Opolis",
+    "version": "4.0",
     "translation": {
-      "id": "meta用的id",
+      "id": "fractured",
       "url": "https://vmct-cn.top/modpacks/官网页面/",
       "language": "zh_cn",
-      "version": "汉化版本1.0.0"
+      "version": "4.0"
     }
   }
 }
