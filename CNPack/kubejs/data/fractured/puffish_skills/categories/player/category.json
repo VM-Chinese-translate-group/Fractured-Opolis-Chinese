@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": true,
+	"title": "Player Perks",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "minecraft:player_head"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

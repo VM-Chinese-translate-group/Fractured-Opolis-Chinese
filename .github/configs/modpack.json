@@ -1,11 +1,10 @@
 {
-  //这是一条为避免忘记修改而写的注释，如何修改请查看Readme文件。（生产环境中需要删除这条注释）
-  "packId": 130,
-  "packName": "FTB StoneBlock 4",
-  "versionPattern": "FTB StoneBlock 4 {version}",
-  "mcVersion": "1.20.1", 
-  "loader": "forge",
-  "updateMethod": "cursethebeast",
+  "packId": 1518508,
+  "packName": "Fractured Opolis",
+  "versionPattern": "Fractured Opolis-{version}",
+  "mcVersion": "1.21.1", 
+  "loader": "neoforge",
+  "updateMethod": "api",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
   "attentionList": {
