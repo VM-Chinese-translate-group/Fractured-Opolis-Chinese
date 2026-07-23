@@ -6,9 +6,9 @@
 	chapter.2F51DDDF0EB4097B.title: "The Nether"
 	chapter.433F05046405648B.title: "Fractured Desert"
 	chapter.4C0723A449EFCCD6.title: "Gaia"
-	chapter.5DB46FE869DCDFBE.title: "The Undergarden"
+	chapter.5DB46FE869DCDFBE.title: "深暗之园"
 	chapter.5E3A4D55C55E37AA.title: "烫烫烫"
-	chapter.62CFC2C9EDF463BD.title: "The Void"
+	chapter.62CFC2C9EDF463BD.title: "虚空"
 	chapter.67C945A97AA0C93E.title: "矿物词典"
 	chapter.70536BC0A99471E1.title: "Shop"
 	chapter_group.0E4E38F11DAB1F87.title: "Shop"
@@ -16,15 +16,15 @@
 	chapter_group.71448CACEFEA03D3.title: "Information"
 	file.0000000000000001.title: "破碎城"
 	quest.00012C8C1EC7B6DA.quest_desc: ["[ \"Drops from \", { \"text\": \"Green Opal Ore\", \"underlined\": true, \"color\": \"green\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"486A68FCF7F4E791\" } } ]"]
-	quest.00B2C447F5E3DF91.quest_desc: ["Mixes together fluids to create &lAlloys&r and new &lFluids&r"]
+	quest.00B2C447F5E3DF91.quest_desc: ["混合流体，制成&l合金&r或新的&l流体&r"]
 	quest.0158E7C6C7E8A767.quest_desc: ["Crushed &0&lPetcoke&r&r"]
 	quest.018B06C1A5F159DC.quest_desc: ["When in full &7&lFaraday Armor&r&r and standing ontop of a multiblock &e&lLightning Rod&r&r using this item will strike you with &e&lLightning&r&r"]
 	quest.01B652F94D801583.quest_desc: ["Made inside the &lMixer&r"]
 	quest.01C3824E489E75D7.quest_desc: ["Made inside the &lGrinder&r"]
 	quest.01DAEA4A48B7BB4B.quest_desc: ["[ \"Drops from \", { \"text\": \"Titanium Ore\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"377B5CB9B8F6562E\" } } ]"]
-	quest.02BE5D230D9C3015.quest_desc: ["Crafted from &#8B4513&lImpure Cloggrum&r &r"]
-	quest.02DA07EE0352087B.quest_desc: ["Made inside the &0&lBlast Furnace&r&r from &9&lFroststeel&r&r"]
-	quest.034F5FADEF2EB690.quest_desc: ["Made inside the &#8B4513&lDrying Table&r&r"]
+	quest.02BE5D230D9C3015.quest_desc: ["合成&#8B4513&l含杂扼塞矿&r&r获得"]
+	quest.02DA07EE0352087B.quest_desc: ["用&0&l高炉&r&r烧炼&9&l霜钢&r&r制成"]
+	quest.034F5FADEF2EB690.quest_desc: ["使用&#8B4513&l干燥台&r&r制成"]
 	quest.036D85B2500732DE.quest_desc: ["Allows you to make &lPolymer Bars&r"]
 	quest.047D74E10724B489.quest_desc: ["Made inside the &lRestructurer&r"]
 	quest.04C204A509F34264.quest_desc: ["Below the &7&lCoker Unit&r&r there are 2 outputs for &lPetcoke&r"]
@@ -37,9 +37,9 @@
 	quest.051238EFDB57857E.quest_desc: ["Used to make &lHV Wires&r"]
 	quest.05CC0E75356103F3.quest_desc: ["Used to create the &lEnd Portal&r"]
 	quest.06D4B1E5FE22C9C4.quest_desc: [
-		"&2&lThe Undergarden&r&r is the only other dimension that can be accessed from &lThe Overworld&r. To enter create a portal from &#8B4513&lTreated Stone Bricks&r&r and light with the &lUndergarden Catalyst&r."
+		"&2&l深暗之园&r&r是唯一一个能够直接从&l主世界&r进入的维度。你需要用&#8B4513&l处理过的石砖&r&r搭建一个传送门，然后用&l深园催化石&r点亮它。"
 		""
-		"Requires at least 10 &lFrame&r blocks to light and created like a &lNether Portal&r "
+		"至少需要10个&l框架&r方块，搭建方式与&l下界传送门&r相同"
 	]
 	quest.06E82AD5B86D8A7F.quest_desc: ["The &lMixer&r is like a mini version of the &0&lMixer&r&r"]
 	quest.072E309B1EAC0618.quest_desc: ["在&0&l固化器&r&r中将&7&l熔融石头&r&r注入&0&l镐头铸模&r&r即可获得"]
@@ -57,8 +57,8 @@
 	quest.08C773C0351D6B12.quest_desc: ["When held near a valid multiblock will show where to place"]
 	quest.08DB10901054DDFA.quest_desc: ["A very important part of creating circuits"]
 	quest.098CC4DC658E8EB0.quest_desc: ["The ultimate crafting table "]
-	quest.0995D9D8B64CCE33.quest_desc: ["Used to light the portal from &0&lThe Void&r&r to the &6&lFractured Desert&r&r"]
-	quest.099D068DD7DDF318.quest_desc: ["&0&lEnder Tanks&r&r can be linked together. Use dyes to set. A &a&lForgotten Nugget&r&r can be used to make the &0&lEnder Tank&r&r private"]
+	quest.0995D9D8B64CCE33.quest_desc: ["用于点亮从&0&l虚空&r&r前往&6&l破碎沙漠&r&r的传送门"]
+	quest.099D068DD7DDF318.quest_desc: ["&0&l末影蓄水槽&r&r可以相互连接到一起。你可以用染料来配置它们。使用&a&l遗忆粒&r&r可将&0&l末影蓄水槽&r&r设为私人所有"]
 	quest.0A2B401391509BB1.quest_desc: ["用于搭建&#8B4513&l合金窑&r&r"]
 	quest.0AB0F571939CEB37.quest_desc: ["An &lImporter&r can be connected to an &lExporter&r using the &lConnector&r"]
 	quest.0AC1A73200A329F8.quest_desc: [
@@ -75,15 +75,15 @@
 	quest.0B4C1D9669A4EB40.quest_desc: ["在哪里可以找到这些矿物？"]
 	quest.0B4C1D9669A4EB40.title: "破碎沙漠"
 	quest.0B5949F7D5E7BB0A.quest_desc: ["用于收集和转运流体。&4&l热&r&r的流体也能装，但只能装一次"]
-	quest.0B71DEB4F77207C7.quest_desc: ["Can be used to store a large amount of a single &lFluid&r"]
-	quest.0B71DEB4F77207C7.title: "Fluid Drawer"
+	quest.0B71DEB4F77207C7.quest_desc: ["可大量存储单一&l流体&r"]
+	quest.0B71DEB4F77207C7.title: "流体抽屉"
 	quest.0B88FF01EB0BD5A5.quest_desc: ["Made inside the &5&lRestructurer&r&r"]
 	quest.0BF39BA3C826C1FD.quest_desc: ["Can be used to create the &lEngineering Press&r"]
 	quest.0C32CE27954E9105.quest_desc: ["A dull dimension contains &lEroding Water&r"]
 	quest.0C32CE27954E9105.title: "Enter The Dark Colored Caves"
 	quest.0C721EC44FCA6FDA.quest_desc: ["Shows fluid deposits from a chunk using the &0&lSeismic Survey Tool&r&r. Oil can be found in the &6&lFractured Desert&r&r"]
-	quest.0C9F5684C88B01E0.quest_desc: ["Can be used to store a large amount of a single &lItem&r"]
-	quest.0C9F5684C88B01E0.title: "Single Drawer"
+	quest.0C9F5684C88B01E0.quest_desc: ["可大量存储单一&l物品&r"]
+	quest.0C9F5684C88B01E0.title: "单体抽屉"
 	quest.0CE7D2B0C40EAFCC.quest_desc: ["我去，&7&l石镐&r&r"]
 	quest.0D4D7116F1046823.quest_desc: ["Drops from &6&lBlazes&r&r"]
 	quest.0D9C19B2677B34EE.quest_desc: [
@@ -97,11 +97,11 @@
 	quest.0DA7A14111B86009.quest_desc: ["设个重生点。就这样"]
 	quest.0DEE9173FECFA144.quest_desc: ["Made on the &#8B4513&lEngineer's Workbench&r&r"]
 	quest.0E672826BF9BDC89.quest_desc: ["The &e&lLightning Rod&r&r can be used to catch &e&lLightning Bolts&r&r and convert them into power"]
-	quest.0E84E7D5A4FF626E.quest_desc: ["&#8B4513&lCloggrum Ingots&r&r can be squeezed inside the &#8B4513&lSqueezer&r&r to create &lIron Ingots&r and &5&lVirulent Mix&r&r"]
+	quest.0E84E7D5A4FF626E.quest_desc: ["在&#8B4513&l挤压机&r&r中挤压&#8B4513&l扼塞锭&r&r可获得&l铁锭&r和&5&l致毒混合物&r&r"]
 	quest.0E95BF55AD32E030.quest_desc: ["Made on the &#8B4513&lEngineer's Workbench&r&r"]
 	quest.0EF9A2E31C4BCD93.quest_desc: ["Stores &lChronon Energy&r"]
 	quest.0F13C3C6FFAA52DC.quest_desc: ["Low down in the caves you can find &9&lEroding Water&r&r. Can also be obtained through a &0&lDerrick&r&r"]
-	quest.0F5ED9F96D6D8048.quest_desc: ["Can be added to a placed &0&lWindmill&r&r to make it spin faster and produce more RF "]
+	quest.0F5ED9F96D6D8048.quest_desc: ["可安装在放置好的&0&l风车&r&r上，提高风车的转速，提升发电量"]
 	quest.0F64894280306C3D.quest_desc: ["用&l锄头&r扒拉&l草方块&r可以找到&l蚯蚓&r。一条蚯蚓可以让3x3区域内的耕地保持湿润，作物生长也会稍微加快"]
 	quest.0FB30E431E5B8680.quest_desc: ["[ \"挖掘\", { \"text\": \"铜矿石\", \"underlined\": true, \"color\": \"#ff681f\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1FD799D3063824F0\" } }, \"掉落\"]"]
 	quest.103074F46CE1CF6E.quest_desc: [
@@ -131,22 +131,22 @@
 	quest.116E654229D0BA5F.title: "Enter The Gaia Dimension"
 	quest.12571F322C143731.quest_desc: ["Can be used as one of the 2 power sources for the &5&lRestructurer&r&r"]
 	quest.12705C61FC3F848F.quest_desc: [
-		"A &9&lPump&r&r allows for Fluids do be moved from one place to another. A Pump must be powered from the top and sides can be set using the &lHammer&r"
+		"&9&l泵&r&r可以用来运输流体。泵的顶面用于供能，其他侧面可使用&l工程师锤&r配置"
 		""
-		"A &7&lSheetmetal Tank&r&r can be used store a large amount of &lFluids&r"
+		"&7&l流体储罐&r&r可存储大量&l流体&r"
 	]
-	quest.1282A5F5B89A7950.quest_desc: ["Made inside the &1&lSoaking Table&r&r from either &#8B4513&lLog Sheets&r&r, &a&lSugar Cane&r&r or &a&lReeds&r&r"]
-	quest.12B0E741F9AA57B0.quest_desc: ["A strange chest item that cannot be placed in world. Used to create &lDrawers&r"]
-	quest.12D3C6F8286CBA42.quest_desc: ["Used to move &lFluids&r around, works better paired with a &lPump&r"]
-	quest.12E7DAA088812271.quest_desc: ["When used on &z&lColored Stone&r&r will extract that dye from it, with a chance to give you the dye item"]
+	quest.1282A5F5B89A7950.quest_desc: ["在&1&l浸泡台&r&r中浸泡&#8B4513&l原木片&r&r、&a&l甘蔗&r&r或&a&l芦苇&r&r制成"]
+	quest.12B0E741F9AA57B0.quest_desc: ["一个奇怪的箱子。它无法放置出来，只能用来合成物品，例如&l抽屉&r"]
+	quest.12D3C6F8286CBA42.quest_desc: ["用于运输&l流体&r，与&l泵&r配合使用更好"]
+	quest.12E7DAA088812271.quest_desc: ["对&z&l彩色石头&r&r使用，可以提取其中的染料，且你有一定概率获得对应的染料物品"]
 	quest.1360426821F58FEA.quest_desc: ["Low down in the caves you can find &5&lPurifying Water&r&r. Can also be obtained through a &0&lDerrick&r&r"]
 	quest.137FCA0C3C680064.quest_desc: ["合成&4&l下界石块&r&r获得"]
 	quest.1393BF57965923E5.quest_desc: ["由&l&#8B4513木棍&r&r合成"]
 	quest.1393BF57965923E5.title: "木板"
 	quest.13A26C11AC42F2FF.quest_desc: ["Can be used to create the &lLogic Press&r"]
-	quest.13AA5391F7D32AB4.quest_desc: ["A &lReinforced Mechanical Compoment&r"]
+	quest.13AA5391F7D32AB4.quest_desc: ["&l钢机械零件&r"]
 	quest.13E6D929EF66D0E6.quest_desc: ["在&#8B4513&l砧板&r&r上切割&#8B4513&l原木&r&r可获得&#8B4513&l树皮&r&r和去皮的&#8B4513&l原木&r&r"]
-	quest.155A7AA171192C5A.quest_desc: ["The first &lWorld&r that &0&lThe Void&r&r gives access to is the &6&lFractured Desert&r&r"]
+	quest.155A7AA171192C5A.quest_desc: ["你借道&0&l虚空&r&r前往的第一个&l世界&r将会是&6&l破碎沙漠&r&r"]
 	quest.1563637174E457E6.quest_desc: ["&#8B4513&l高炉&r&r可以制造&7&l金属粉&r&r"]
 	quest.15A0B3BB1FC9B3C9.quest_desc: [
 		"用&l/sky create&r来到这条飘在空中的&l大鲸鱼&r上之后，你的当务之急就是着陆。最好的办法是——信仰之跃！"
@@ -161,9 +161,9 @@
 	quest.16314D7820DC899B.quest_desc: ["Made inside the &#8B4513&lBottling Machine&r&r"]
 	quest.16536A481A65F9D2.quest_desc: ["Made from &lAcetaldehde&r and &#8B4513&lCreosote Oil&r&r inside a &0&lRefinery&r&r "]
 	quest.16A1DE2C911A27A6.quest_desc: ["Made inside the &lGrinder&r"]
-	quest.16AB4B76A6BD0B37.quest_desc: ["The &#8B4513&lAuto Workbench&r&r can be used to automatically craft the selected recipe from the &9&lBlueprint&r&r"]
-	quest.16AB4B76A6BD0B37.quest_subtitle: "A Placer will make this easier to build..."
-	quest.16AB4B76A6BD0B37.title: "Auto Workbench"
+	quest.16AB4B76A6BD0B37.quest_desc: ["&#8B4513&l自动装配台&r&r可按照指定&9&l蓝图&r&r自动制造物品"]
+	quest.16AB4B76A6BD0B37.quest_subtitle: "用放置器搭建会更方便些……"
+	quest.16AB4B76A6BD0B37.title: "自动装配台"
 	quest.16B97D1F04EC3610.quest_desc: ["&l破碎城&r支持&l光影&r。打开&l视频设置&r，点击右上角的&l光影包&r选项吧！"]
 	quest.16DAFBDB2B420964.quest_desc: ["用于制造盔甲的混合物，有点强度，但不多"]
 	quest.1703989159CD2650.quest_desc: ["A block of Sugilite"]
@@ -179,7 +179,7 @@
 		"需要使用&0&l挖掘机&r&r"
 	]
 	quest.17E6CA0559A2075A.title: "铁矿石"
-	quest.17EFFCFB078E2B90.quest_desc: ["Made inside the &0&lBlast Furnace&r&r. Makes great tools"]
+	quest.17EFFCFB078E2B90.quest_desc: ["使用&0&l高炉&r&r制成。很好的工具材料"]
 	quest.188598D586A3352A.quest_desc: [
 		"&l紫水晶&r"
 		""
@@ -191,7 +191,7 @@
 	quest.18A6302F273F5A6C.quest_desc: ["An alloy of &#FF681F&lCopper&r&r and &#8B4513&lNickel&r&r"]
 	quest.18E2A6B88E47A449.quest_desc: ["[ \"Drops from \", { \"text\": \"Blue Opal Ore\", \"underlined\": true, \"color\": \"blue\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"392E6E0C5A3E48C5\" } } ]"]
 	quest.192FA13D5043F934.quest_desc: ["The &l&lArc Furnace&r&r is a powerful machine that can be used to make some alloys and smelt items. Its very power hungry "]
-	quest.194420C16D42D6CE.quest_desc: ["[ \"Drops from \", { \"text\": \"Froststeel Ore\", \"underlined\": true, \"color\": \"blue\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2F866D99F716E28B\" } } ]"]
+	quest.194420C16D42D6CE.quest_desc: ["[ \"挖掘\", { \"text\": \"霜钢矿石\", \"underlined\": true, \"color\": \"blue\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2F866D99F716E28B\" } }, \"掉落\"]"]
 	quest.1978C0A1FE18504C.quest_desc: ["Made on the &0&lMetal Press&r&r"]
 	quest.19C6F2DB3B517D91.quest_desc: ["This world is really fractured "]
 	quest.19C6F2DB3B517D91.title: "Enter The End"
@@ -201,7 +201,7 @@
 	quest.1BBC6DDFBEC013A9.quest_desc: ["更好的合成方式"]
 	quest.1BBC6DDFBEC013A9.title: "更大的合成格"
 	quest.1BC01DAE3349D1A8.quest_desc: [
-		"Generates power based on the temperature difference between adjacent blocks. Below is the list of valid blocks."
+		"利用相邻方块间的温差来发电。下表列出了可用的方块。"
 		"{image:fractured:textures/quests/thermo_blocks.png width:120 height:100 align:center}"
 	]
 	quest.1C71A9DF97D202BA.quest_desc: ["Made inside the &5&lRestructurer&r&r"]
@@ -210,8 +210,8 @@
 	quest.1D2106911904AA10.quest_desc: ["Made inside the &0&lArc Furnace&r &rfrom &7&lImpure Aluminum&r&r"]
 	quest.1D3524C227F3BE28.quest_desc: ["[ \"Drops from \", { \"text\": \"Gold Ore\", \"underlined\": true, \"color\": \"yellow\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"70EE32C3CD61C180\" } } ]"]
 	quest.1D738A5A492D5873.quest_desc: ["Made inside the &lElectroCentrifuge&r"]
-	quest.1D8D1DC74B3C3ADB.quest_desc: ["Made inside the &#8B4513&lFermenter&r&r"]
-	quest.1D8D1DC74B3C3ADB.title: "Ethanol"
+	quest.1D8D1DC74B3C3ADB.quest_desc: ["使用&#8B4513&l发酵机&r&r制成"]
+	quest.1D8D1DC74B3C3ADB.title: "乙醇"
 	quest.1DC0DEDCB4B2E7EB.quest_desc: ["When inside inventory will slowly charge other items like batteries with &lChronon Energy&r"]
 	quest.1E04C480ABE974FC.quest_desc: ["照亮前路"]
 	quest.1F0EE5286380C8ED.quest_desc: ["&e&l小麦面粉&r&r加&1&l水&r&r可以制成&e&l面团&r&r"]
@@ -236,17 +236,17 @@
 	quest.2134589535C8789F.quest_desc: ["[ \"Drops from \", { \"text\": \"Silver Ore\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"448C910C045496D9\" } } ]"]
 	quest.21846374E67BC47F.quest_desc: ["The main use of the High-Pressure Refinery is to produce sulfur"]
 	quest.21B208B0E0AF3354.quest_desc: ["An &lImporter&r can be connected to an &lExporter&r using the &lConnector&r"]
-	quest.21D13EF5C1AC11E8.quest_desc: ["After placing &#8B4513&lTreated Planks&r&r in &0&lThe Void&r&r it will become infused and transform into &0&lVoid Planks&r&r"]
+	quest.21D13EF5C1AC11E8.quest_desc: ["将&#8B4513&l防腐木板&r&r放在&0&l虚空&r&r维度中，它会受到虚空的侵染，转化为&0&l虚空木板&r&r"]
 	quest.21F08F82EA034C58.quest_desc: [
-		"The &6&lMetal Finder&r&r can be used to help find metal ores like &#8B4513&lCloggrum&r,&r &9&lFroststeel&r&r and &l&4Utheric&r&r Ore"
+		"&6&l金属探测器&r&r可以寻找金属矿石，比如&#8B4513&l扼塞&r&r、&9&l霜钢&r&r和&l&4御腐&r&r矿石"
 		""
-		"The finder will point in the direction if it detects ore, will also show if the ore is above or below you"
+		"探测器探测到矿石时，就会指向该矿石的方向，同时显示矿石位于你的上方还是下方"
 	]
 	quest.228009FA2766F4D8.quest_desc: ["Made inside the &lRestructurer&r"]
 	quest.2291DE8F2FE8D438.quest_desc: [
-		"&0&lThe Void&r&r is a dimension between all worlds. This dimension can be used as a hub to travel to different worlds"
+		"&0&l虚空&r&r维度是各个世界之间的空隙。此维度可作为前往不同世界的交通枢纽"
 		""
-		"The &0&lVoid Portal&r&r is made with &lVoid Stone&r and can be lit using a &lBucket Of Void Fuel&r"
+		"&0&l虚空传送门&r&r由&l虚空石&r构成，需要用&l一桶虚空燃料&r来点亮"
 	]
 	quest.229C6C1FB65E26EC.quest_desc: ["A block"]
 	quest.23101B2140E1667B.quest_desc: ["A block of &5&lSweet Muckball&r&r"]
@@ -258,8 +258,8 @@
 		"两个&l含杂矿物&r可制成一个&l锭&r"
 	]
 	quest.23962B6CEC892505.quest_desc: ["这不是帽子，它可以用来分类物品。右击箱子试试吧！"]
-	quest.239E3139E48235D2.quest_desc: ["&0&lVoid Stone&r&r can be made in the &0&lSolidifier&r&r "]
-	quest.24747FD6A775EA7C.quest_desc: ["Used to craft more complex items using various different kinds of &9&lBlueprints&r&r"]
+	quest.239E3139E48235D2.quest_desc: ["&0&l虚空石&r&r可在&0&l固化器&r&r中制得"]
+	quest.24747FD6A775EA7C.quest_desc: ["可使用各种&9&l蓝图&r&r制作更复杂的物品"]
 	quest.24A114B1FF9BFA2A.quest_desc: ["你可以给&#8B4513&l木板&r&r和&#8B4513&l原木&r&r涂上&#8B4513&l杂酚油&r&r来防腐"]
 	quest.24BD90F101BA0BA0.quest_desc: ["&l沉浸工程的锤子&r可用于制造多方块结构"]
 	quest.251D072997733335.quest_desc: [
@@ -272,8 +272,8 @@
 		"&lAE2 Blackout&r调暗了AE2模组方块和GUI的亮度"
 	]
 	quest.25729C9D0E1AF5F7.quest_desc: ["将&7&l沙砾&r&r放置在&#8B4513&l砧板&r&r上，然后用&7&l石块&r&r砸，即可得到&7&l燧石&r&r"]
-	quest.263C4569CED5A1D4.quest_desc: ["A very scary place home to the &lForgotten&r"]
-	quest.263C4569CED5A1D4.title: "The Catacombs"
+	quest.263C4569CED5A1D4.quest_desc: ["&l遗灵&r的家园。非常可怕的地方"]
+	quest.263C4569CED5A1D4.title: "下僻巢穴"
 	quest.2672CA9065D48B82.quest_desc: ["右击&1&l水源&r&r可以盛满水。盛了水的碗可以烧炼，多烧几次喝起来更安全"]
 	quest.2694AFBBDAE85ABA.quest_desc: ["The &7&lCoker Unit&r&r is a massive multiblock structure that is used to turn &1&lWater&r&r and &0&lBitumen&r&r into &#8B4513&lSulfurized Diesel&r&r and &0&lPetcoke&r.&r &0&lPetcoke&r&r is what we are after"]
 	quest.27124894F4012288.quest_desc: ["[ \"Drops from \", { \"text\": \"Nickel Ore\", \"underlined\": true, \"color\": \"#8b4513\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"54BB9D8D5916EB6E\" } } ]"]
@@ -285,13 +285,13 @@
 	quest.2863B7E6B497FBFC.quest_desc: ["Drops a unique item on death"]
 	quest.2863B7E6B497FBFC.title: "Kill The Guard"
 	quest.2869B1A2A4694060.quest_desc: ["[ \"可在\", { \"text\": \"灼热矿石\", \"bold\": true, \"color\": \"red\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D9C19B2677B34EE\" } }, \"附近找到\"]"]
-	quest.289EC4865E415319.quest_desc: ["Allows the &0&lSolidifier&r&r to make &lWires&r"]
-	quest.2943C42746FB64EE.quest_desc: ["Doesn't break when handling &4&lHot&r&r fluids"]
-	quest.29D4980E7839A493.quest_desc: ["Strong fabric"]
+	quest.289EC4865E415319.quest_desc: ["让&0&l固化器&r&r制造&l线&r"]
+	quest.2943C42746FB64EE.quest_desc: ["装&4&l热&r&r流体后不会碎掉"]
+	quest.29D4980E7839A493.quest_desc: ["坚韧的布料"]
 	quest.2A448251C0169B7E.quest_desc: ["紧邻&0&l简易控制器&r&r放置时，可抽取第一层流体，然后按照&0&l铸模&r&r铸成各种物品"]
 	quest.2B3FE8E65609242B.quest_desc: ["A plate of &7&lAluminum&r&r"]
 	quest.2C4D801A6047173D.quest_desc: ["让&0&l固化器&r&r制造&l粉&r"]
-	quest.2C73F8B0A8370E41.quest_desc: ["Uncrafted Ingots"]
+	quest.2C73F8B0A8370E41.quest_desc: ["未铸成的锭"]
 	quest.2CBE3AE43EA28194.quest_desc: ["&lEmpty Upgrade Modules&r can be used to make &lLTX Industries&r machines better "]
 	quest.2D026D02EBCD3D16.quest_desc: ["在&l熔炉&r中烧炼&0&l原木&r&r获得"]
 	quest.2D181FF935A1FE6D.quest_desc: [
@@ -303,20 +303,20 @@
 	]
 	quest.2D36D8128832B70D.quest_desc: ["Made inside the &lMaterial Infusing Chamber&r"]
 	quest.2D60368F24A4C80C.quest_desc: ["Used to light the &5&lKeystone Portal&r&r to the &5&lGaia Dimension&r&r"]
-	quest.2D712EC43BA9C655.quest_desc: ["[ \"Drops from \", { \"text\": \"Cloggrum Ore\", \"underlined\": true, \"color\": \"#8b4513\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2D181FF935A1FE6D\" } } ]"]
+	quest.2D712EC43BA9C655.quest_desc: ["[ \"挖掘\", { \"text\": \"扼塞矿石\", \"underlined\": true, \"color\": \"#8b4513\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2D181FF935A1FE6D\" } }, \"掉落\"]"]
 	quest.2DBEE8FAB832D8A1.quest_desc: ["由&l&#8B4513树枝&r&r合成，或破坏&2&l树叶&r&r获得"]
 	quest.2DC95FFEDAB612B1.quest_desc: [
-		"Can be crafted in a &#8B4513&lSmithing Table&r&r from &a&lSmithing Template&r&r, &9&lFroststeel Ingot&r&r and &#8B4513&lCloggrum Ingot&r&r"
+		"可在&#8B4513&l锻造台&r&r中用&a&l锻造模板&r&r、&9&l霜钢锭&r&r和&#8B4513&l扼塞锭&r&r制成"
 		""
-		"&a&lForgotten Nuggets&r&r can also be looted from the &0&lCatacombs&r&r."
+		"你也可以在&0&l下僻巢穴&r&r中找到&a&l遗忆粒&r&r"
 	]
 	quest.2EB56BE64F07A4FD.quest_desc: ["A better wire to send energy"]
-	quest.2ED575C7F52113CF.quest_desc: ["Alloy of &1&lWater&r&r and &4&lLava&r&r"]
+	quest.2ED575C7F52113CF.quest_desc: ["&1&l水&r&r与&4&l熔岩&r&r的合金"]
 	quest.2F01B7AB4B4ABC2A.quest_desc: ["用于制作&7&l研钵和研杵&r&r"]
 	quest.2F244CF1D13B0F30.quest_desc: ["Allows you to craft &lProjectiles&r"]
 	quest.2F32CDFEB0550FC1.quest_desc: ["A super circuit"]
 	quest.2F3E2008B4143E60.quest_desc: ["随身携带的饮品"]
-	quest.2F5E953A83883A0F.quest_desc: ["Allows you to craft &#8B4513&lConveyors&r&r"]
+	quest.2F5E953A83883A0F.quest_desc: ["用于制造&#8B4513&l传送带&r&r"]
 	quest.2F866D99F716E28B.quest_desc: [
 		"&l扼塞矿石&r"
 		""
@@ -346,14 +346,14 @@
 	quest.308619C5694C9BC0.quest_desc: ["Made inside the &0&lSqueezer&r&r"]
 	quest.31B498E957946CE4.quest_desc: ["The &lGrinder&r is like a mini version of the &0&lCrusher&r&r"]
 	quest.31C0DC0B9A28D93F.quest_desc: ["用于制作&7&l燧石工具&r&r"]
-	quest.31E93CBE12506CBE.quest_desc: ["The &7&lFermenter&r&r can be used to make &lEthanol&r from organic materials "]
-	quest.31E93CBE12506CBE.quest_subtitle: "A Placer will make this easier to build..."
+	quest.31E93CBE12506CBE.quest_desc: ["&7&l发酵机&r&r可利用有机材料生产&l乙醇&r"]
+	quest.31E93CBE12506CBE.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.32B94B1452E8A054.quest_desc: ["&7&l沙砾&r&r是世界中一种常见的资源"]
 	quest.332CB14725979954.quest_desc: ["Made on the &#8B4513&lEngineer's Workbench&r&r"]
-	quest.33BAB6928043C27B.quest_desc: ["A &0&lWindmill&r&r can be used to generate a small amount of RF. Must be connected to a Dynamo"]
+	quest.33BAB6928043C27B.quest_desc: ["&0&l风车&r&r可少量生产RF。需要连接到发电机"]
 	quest.33BD68EB4BBFC6EE.quest_desc: ["Made in the &lChem Lab&r"]
-	quest.33BFE6241D31E892.quest_desc: ["Can be found when crushing &e&lSandstone&r&r"]
-	quest.3433CDEB94AEE841.quest_desc: ["View and Craft all in one place"]
+	quest.33BFE6241D31E892.quest_desc: ["粉碎&e&l砂岩&r&r获得"]
+	quest.3433CDEB94AEE841.quest_desc: ["集成了访问容器与合成功能"]
 	quest.34558283114852CA.quest_desc: ["Made inside the &lFabricator&r"]
 	quest.34B34434E6A0ECBD.quest_desc: ["I see you"]
 	quest.34FF1729FBE766A1.quest_desc: ["Crafted &lResidue&r"]
@@ -369,7 +369,7 @@
 	quest.3675D49F591079A9.quest_desc: ["Can be used to purify &lImpure Ores&r into &lPure&r ones"]
 	quest.367E9D3AD78A5B29.quest_desc: ["Can be filled with fuels like &#8B4513&lCreosote Oil&r&r to produce a lot of RF "]
 	quest.367E9D3AD78A5B29.quest_subtitle: "A Placer will make this easier to build..."
-	quest.36D380A56080807F.quest_desc: ["Made inside the &0&lSolidifier&r&r or &#8B4513&lMetal Press&r&r"]
+	quest.36D380A56080807F.quest_desc: ["使用&0&l固化器&r&r或&#8B4513&l金属冲压机&r&r制成"]
 	quest.3743424EA21CA930.quest_desc: ["Can be used to make &7&lHigh-Voltage Coil Blocks&r&r"]
 	quest.375F3B305EF70DD6.quest_desc: ["A base lens that can be crafted into other lenses"]
 	quest.377B5CB9B8F6562E.quest_desc: [
@@ -388,7 +388,7 @@
 		"&l生物群系&r：全部"
 	]
 	quest.393A1B2FDCBB1888.quest_desc: ["简易的&#8B4513&l木剪刀&r&r，可破坏&2&l树叶&r&r和&2&l草&r&r"]
-	quest.399DA5D0089CA58C.quest_desc: ["The first of many... Allows you to create &7&lMechanical Components&r&r"]
+	quest.399DA5D0089CA58C.quest_desc: ["这是第一步……现在你可以制造&7&l机械零件&r&r了"]
 	quest.39FE25094F4E6455.quest_desc: ["Shift right click to bind to you. After doing that add to the &lShop&r to automate &lBuying&r and &lSelling&r of items"]
 	quest.3A23A0E025F92399.quest_desc: ["Crushed up &7&lAluminum&r&r"]
 	quest.3AA74BF539A3C21B.quest_desc: ["Made inside the &lHigh-Pressure Refinery&r"]
@@ -414,22 +414,22 @@
 	quest.3ECD5E8BA2A00743.title: "Void Catalog"
 	quest.3EF59442607AD0B9.quest_desc: ["Spawns on the &lOuter End Islands&r"]
 	quest.3F0837CF53EDC699.quest_desc: ["Made inside the &5&lRestructurer&r&r"]
-	quest.3F1C77F1F7A62AAC.quest_desc: ["After placing &e&lSandstone&r&r in &0&lThe Void&r&r it will become infused and transform into &0&lVoid Infused Sandstone&r&r"]
+	quest.3F1C77F1F7A62AAC.quest_desc: ["将&e&l砂岩&r&r放在&0&l虚空&r&r维度中，它会受到虚空的侵染，转化为&0&l虚空砂岩&r&r"]
 	quest.3F59613C98FF78A1.quest_desc: ["Made with the &7&lAtomic Reconstructor&r&r"]
 	quest.3F96B6D6EB1EC002.quest_desc: ["在哪里可以找到这些矿物？"]
 	quest.3F96B6D6EB1EC002.title: "深园矿物"
 	quest.3FBDDBDD053EA6FE.quest_desc: ["用来种&2&l种子&r&r和&2&l作物&r&r不错"]
-	quest.3FC44FAA98E0C1A8.quest_desc: ["Crafted from &c&lUtheric Shards&r&r"]
+	quest.3FC44FAA98E0C1A8.quest_desc: ["合成&c&l御腐破片&r&r获得"]
 	quest.416DB413A109C16C.quest_desc: ["&4&l营火&r&r可以把&7&l圆石&r&r烧成&7&l石头&r&r"]
 	quest.418613C121E2EA5C.quest_desc: ["Made inside the &lAssembler&r"]
-	quest.418F6CE3159E1019.quest_desc: ["The &0&lVoid Staff&r&r can be used to &lTeleport&r a distance of 128 blocks. To use right click on the side or top of a block you want to teleport to "]
+	quest.418F6CE3159E1019.quest_desc: ["&0&l虚空法杖&r&r支持128格内的&l传送&r，右击目标方块即可将你传送过去"]
 	quest.4193F2B5376B8AA7.quest_desc: ["An alloy of &e&lGold&r&r and &lSilver&r"]
 	quest.42024C4DAC805D7E.quest_desc: ["用于制作&7&l燧石工具&r&r"]
-	quest.4209913428F5F428.quest_desc: ["Made inside the &#8B4513&lMixer&r&r"]
+	quest.4209913428F5F428.quest_desc: ["使用&#8B4513&l搅拌机&r&r制成"]
 	quest.424D10D15BA636FA.quest_desc: ["Made inside the &lMaterial Infusing Chamber&r"]
-	quest.428A3130107930B9.quest_desc: ["Can be used to make the &#8B4513&lReinforced Blast Furnace&r&r run faster"]
+	quest.428A3130107930B9.quest_desc: ["可提升&#8B4513&l改良高炉&r&r的工作速率"]
 	quest.42A092A9A7A686C7.quest_desc: ["简易的&#9AC0CD&l桶&r&r，烧炼后才能作为&7&l桶&r&r使用"]
-	quest.42B9D4EEE31560F8.quest_desc: ["A &7&lBasic Mechanical Component&r&r"]
+	quest.42B9D4EEE31560F8.quest_desc: ["&7&l铁机械零件&r&r"]
 	quest.42BF7B2D2241E6D4.quest_desc: ["&9&lGloom Shrooms&r&r can be found in the &0&lDeep Dark&r&r. &d&lChorus Flowers&r&r can also be turned into &9&lGloom Shrooms&r&r"]
 	quest.4358A298CABA59D8.quest_desc: ["[ \"Drops from \", { \"text\": \"Aluminum Ore\", \"underlined\": true, \"color\": \"gray\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7961A2CF4801468B\" } } ]"]
 	quest.43AD64CEB1ADCBC3.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
@@ -465,7 +465,7 @@
 	quest.4585D98E2FBCBF05.quest_desc: ["&2&l树叶&r&r可以在&#8B4513&l干燥台&r&r上晾干，变成&#8B4513&l干树叶&r&r"]
 	quest.45914DF1AB8AEC00.quest_desc: ["&#8B4513&lKerosene&r&r can be processed again in a &0&lDisillation Tower&r&r to get &#FF69B4&lBenzol&r&r"]
 	quest.45D0F678DF95095D.quest_desc: ["Connects &lExporters&r and &lImporters&r together. Routers can be used to send and receive items, fluids and energy wireless across the world"]
-	quest.46370408BEF8E9E9.quest_desc: ["The &#8B4513&lMetal Press&r&r can be used to create most of the items a &lSolidifier&r can without the need to melt the item into its molten variant first"]
+	quest.46370408BEF8E9E9.quest_desc: ["&#8B4513&l金属冲压机&r&r可以制造大多数&l固化器&r可以制造的东西，并且不需要事先熔化材料"]
 	quest.465F5C3F02C76E9E.quest_desc: [
 		"&l破碎城&r有一个&l公开服务器&r。"
 		"可通过多人游戏加入"
@@ -474,11 +474,11 @@
 	quest.4670AA7F41BF13B2.quest_desc: ["在哪里可以找到这些矿物？"]
 	quest.4670AA7F41BF13B2.title: "末地矿物"
 	quest.46C29603CFCAC866.quest_desc: ["Obtained from breaking ore from the &lMining Lens&r"]
-	quest.4705E0B5AE882C32.quest_desc: ["After placing a &#8B4513&lSteel Block&r&r in &0&lThe Void&r&r it will become infused and transform into &0&lVoid Block&r&r"]
+	quest.4705E0B5AE882C32.quest_desc: ["将&#8B4513&l钢块&r&r放在&0&l虚空&r&r维度中，它会受到虚空的侵染，转化为&0&l虚空块&r&r"]
 	quest.47C012CF702A5B79.quest_desc: ["在哪里可以找到这些矿物？"]
 	quest.47C012CF702A5B79.title: "主世界矿物"
 	quest.47D4236FDFBCBAF8.quest_desc: ["&e&lImpure Gold&r&r inside a &#8B4513&lSqueezer&r&r will create &e&lGold Ingots&r&r"]
-	quest.486A6441CB3DB058.quest_desc: ["Works like a &lHopper&r but for &lFluids&r instead"]
+	quest.486A6441CB3DB058.quest_desc: ["用于&l流体&r的&l漏斗&r"]
 	quest.486A68FCF7F4E791.quest_desc: [
 		"&l绿色蛋白石矿石&r"
 		""
@@ -492,23 +492,23 @@
 		"&l维度&r：末地"
 		"&l生物群系&r：全部"
 	]
-	quest.4945DEA3DFF190EE.quest_desc: ["&c&lUtheric Clusters&r&r can be squeezed inside the &#8B4513&lSqueezer&r&r to create &c&lRedstone&r&r and &5&lVirulent Mix&r&r"]
-	quest.4955CE697F75E226.quest_desc: ["Allows you to find biomes"]
+	quest.4945DEA3DFF190EE.quest_desc: ["在&#8B4513&l挤压机&r&r中挤压&c&l御腐片簇&r&r可获得&c&l红石&r&r和&5&l致毒混合物&r&r"]
+	quest.4955CE697F75E226.quest_desc: ["可以搜索生物群系"]
 	quest.4990FDC07119CD25.quest_desc: ["Made in a &0&lRefinery&r&r from &l&dNaphtha&r&r and &#FF69B4&lBenzol&r&r"]
-	quest.4A29489D7471EE85.quest_desc: ["Made inside the &0&lSolidifier&r&r"]
+	quest.4A29489D7471EE85.quest_desc: ["使用&0&l固化器&r&r制成"]
 	quest.4A398F348DC0D804.quest_desc: ["简易&6&l指南针&r&r，指向你的出生点"]
-	quest.4A8F0B76F90E98DF.quest_desc: ["Hot"]
+	quest.4A8F0B76F90E98DF.quest_desc: ["烫"]
 	quest.4B31B426D0FCC623.quest_desc: ["可以烧炼更多物品"]
 	quest.4B57EC252B04CE32.quest_desc: ["Made inside the &5&lRestructurer&r&r"]
 	quest.4C3DA834797012B1.quest_desc: ["[ \"挖掘\", { \"text\": \"锡矿石\", \"underlined\": true, \"color\": \"white\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7DA06A5FF2125AFF\" } }, \"掉落\"]"]
 	quest.4C7356BB11E7074C.quest_desc: ["Obtained from breaking ore from the &lMining Lens&r"]
-	quest.4C7AE8BC58B777A5.quest_desc: ["Made in the &#8B4513&lEngineer's Workbench&r&r"]
+	quest.4C7AE8BC58B777A5.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
 	quest.4C9134C28A42A024.quest_desc: [
 		"&l沉浸工程控制器&r可以帮你更方便地搭建多方块结构。"
 		""
 		"只需要将它放在你想搭建多方块结构的地方，然后手持&l放置器&r，即可在世界中预览该多方块结构"
 	]
-	quest.4CA96BE9655913FD.quest_desc: ["[ \"Drops from \", { \"text\": \"Utherium Ore\", \"underlined\": true, \"color\": \"red\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"113A6412F5F0113D\" } } ]"]
+	quest.4CA96BE9655913FD.quest_desc: ["[ \"挖掘\", { \"text\": \"御腐矿石\", \"underlined\": true, \"color\": \"red\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"113A6412F5F0113D\" } }, \"掉落\"]"]
 	quest.4CC132E4FA1620DF.quest_desc: ["[ \"Drops from \", { \"text\": \"Red Opal Ore\", \"underlined\": true, \"color\": \"red\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4D9D0F0C2F41312D\" } } ]"]
 	quest.4CE264175DE13357.quest_desc: ["Made inside the &lRestructurer&r"]
 	quest.4CE64DFD725145AF.quest_desc: ["The &0&lDragon&r&r protects &lThe End&r"]
@@ -520,30 +520,30 @@
 		"&l维度&r：盖亚"
 		"&l生物群系&r：全部"
 	]
-	quest.4DE4663A73864FA9.quest_desc: ["Made in the &#8B4513&lEngineer's Workbench&r&r"]
+	quest.4DE4663A73864FA9.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
 	quest.4E21978DAD067521.quest_desc: ["All wrapped up"]
-	quest.4E70399CD84A2DF5.quest_desc: ["A strange bucket item that cannot be used in world. Used to create &lFluid Drawers&r"]
-	quest.4E725FF32F398432.quest_desc: ["The &7&lAssembler&r&r can be used to craft crafting recipes for you"]
-	quest.4E725FF32F398432.quest_subtitle: "A Placer will make this easier to build..."
-	quest.4E8AA93A589EC19F.quest_desc: ["Used to make &lWires&r"]
+	quest.4E70399CD84A2DF5.quest_desc: ["一个奇怪的桶。它无法直接使用，只能用来合成物品，例如&l流体抽屉&r"]
+	quest.4E725FF32F398432.quest_desc: ["&7&l装配机&r&r可按照配方合成物品"]
+	quest.4E725FF32F398432.quest_subtitle: "用放置器搭建会更方便些……"
+	quest.4E8AA93A589EC19F.quest_desc: ["用于制造&l线&r"]
 	quest.4EAE0FA28AD197AC.quest_desc: ["&6&lGlowstone&r&r can be made by having &e&lGold Dust&r&r on the ground when &e&lLightning&r&r strikes the ground near it"]
-	quest.4EBBCDD6B6C1365B.quest_desc: ["Used to create &lTools&r and &lArmor&r with &9&lFroststeel&r&r"]
-	quest.4EDC56C8B657F932.quest_desc: ["The &7&lHopper&r&r is used as part of the &7&lCrusher&r&r multiblock"]
+	quest.4EBBCDD6B6C1365B.quest_desc: ["用于制造&9&l霜钢&r&r&l工具&r和&l盔甲&r"]
+	quest.4EDC56C8B657F932.quest_desc: ["&7&l漏斗&r&r是多方块&7&l粉碎机&r&r的组成部分"]
 	quest.4F10403260BB5F2D.quest_desc: ["&0&l焦炉&r&r可制造&7&l焦煤&r&r和&#8B4513&l杂酚油&r&r。搭建&0&l焦炉&r&r需要27块&0&l焦炉砖&r&r，以3x3x3的方式摆放，摆好后用&l锤子&r点击它即可制成多方块结构"]
 	quest.4F10403260BB5F2D.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.4F10403260BB5F2D.title: "焦炉"
-	quest.4F1130825B5C9A51.quest_desc: ["The &7&lCrusher&r&r is a big multiblock structure that is used to crush down items"]
-	quest.4F1130825B5C9A51.quest_subtitle: "A Placer will make this easier to build..."
-	quest.4FACD7308AB9B1C7.quest_desc: ["A simple blade used to make a &0&lWindmill&r&r"]
+	quest.4F1130825B5C9A51.quest_desc: ["&7&l粉碎机&r&r是一个大型多方块结构，用于粉碎物品"]
+	quest.4F1130825B5C9A51.quest_subtitle: "用放置器搭建会更方便些……"
+	quest.4FACD7308AB9B1C7.quest_desc: ["简易的&0&l风车&r&r叶片"]
 	quest.50609BAFE7E276DC.quest_desc: ["可用于在&#8B4513&lCutting Board&r&r上切割一些物品"]
-	quest.50818EBCACCFA244.quest_desc: ["Can be climbed, also used for a lot of &lImmersive Engineering&r multiblock structures"]
+	quest.50818EBCACCFA244.quest_desc: ["可以爬。同时也是许多&l沉浸工程&r多方块结构的组成部分"]
 	quest.5096CA9B6F305AFB.quest_desc: ["&2&lNether Wart&r&r can be found inside &c&lNether Fortresses&r&r"]
 	quest.50BD38056CDC5F59.quest_desc: ["烧炼&7&l泥砖&r&r获得"]
 	quest.51C4160DC51AE895.quest_desc: ["Used to make the &0&lDiesel Generator&r&r"]
 	quest.51D762448274C031.quest_desc: [
-		"&0&lEnder Chests&r&r can be linked together. Use dyes to set. A &a&lForgotten Nugget&r&r can be used to make the &0&lEnder Chest&r&r private"
+		"&0&l末影箱子&r&r可以相互连接到一起。你可以用染料来配置它们。使用&a&l遗忆粒&r&r可将&0&l末影箱子&r&r设为私人所有"
 		""
-		"An &0&lEnder Pouch&r&r can be connected to an &0&lEnder Chest&r&r by Shift Right Clicking on the &0&lEnder Chest&r&r"
+		"手持&0&l末影袋子&r&rshift右击&0&l末影箱子&r&r可将它连接到该&0&l末影箱子&r&r"
 	]
 	quest.51E559ACEC3E7EFD.quest_desc: ["The &e&lFractured Desert&r&r is a extremely &4&lHot&r&r area but contains some very useful resources like &e&lGold&r&r, &lSilver&r, &#8B4513&lNickel&r&r and &l&0Oil&r&r"]
 	quest.51E559ACEC3E7EFD.title: "Enter The Fractured Desert"
@@ -555,7 +555,7 @@
 		"&l生物群系&r：全部"
 	]
 	quest.52246C0846D49379.title: "煤矿石"
-	quest.5318F1ED4C56D4F5.quest_desc: ["Used to make the &#FF681F&lKinetic Dynamo&r&r"]
+	quest.5318F1ED4C56D4F5.quest_desc: ["用于制造&#FF681F&l动能发电机&r&r"]
 	quest.531CAB0179ABDD1D.quest_desc: [
 		"[\"本整合包装载了Ultimine（连锁破坏），按住\", {\"keybind\": \"key.ftbultimine\", \"color\": \"aqua\", \"bold\": true }, \"即可一次性破坏多个方块！\"]"
 		""
@@ -575,7 +575,7 @@
 	quest.53F38F1BC9168D03.quest_desc: ["Found inside the &6&lFractured Desert&r&r using the &0&lSeismic Survey Tool&r&r"]
 	quest.541A22B4AE28E8A8.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.541A22B4AE28E8A8.title: "Survival"
-	quest.5439C36F9BDEA027.quest_desc: ["These can be used to move power across a longer distance"]
+	quest.5439C36F9BDEA027.quest_desc: ["可用于长距离传输能量"]
 	quest.548B920EB3B941F6.quest_desc: ["Used to seperate resources from each other"]
 	quest.54AE70099F87ED5F.quest_desc: ["Used to locate the &2&lMalachite Watchtower&r&r"]
 	quest.54BB9D8D5916EB6E.quest_desc: [
@@ -626,27 +626,27 @@
 	quest.5BCF20C94A0AB809.quest_desc: ["&#8B4513&l干燥台&r&r用于&6&l干燥&r&r物品。&9&l加水&r&r之后可以变成&9&l浸泡台&r&r"]
 	quest.5C263083BCC6D015.quest_desc: ["Used to make &3&lPrinted Engineering Circuit&r&r"]
 	quest.5C931F0A17642D0D.quest_desc: ["Portable Portals. Allows for quick teleportation across dimensions"]
-	quest.5CE6EEC974E07F64.quest_desc: ["Lights up areas useful for caves under your base!"]
+	quest.5CE6EEC974E07F64.quest_desc: ["可照明大片区域。适合用来点亮你基地下面的洞穴！"]
 	quest.5CFA5014092DF032.quest_desc: ["用于制作&7&l燧石工具&r&r"]
 	quest.5D4891733E44EDD7.quest_desc: ["&l&0The Refinery&r&r is used to refine fluids with other fluids or items to create something new "]
 	quest.5D4891733E44EDD7.quest_subtitle: "A Placer will make this easier to build..."
 	quest.5D5B93FF39C2F2E0.quest_desc: ["A block"]
 	quest.5D7C475BDB7FB0E8.quest_desc: ["&2&l树叶绑定结&r&r可用于绑定&7&l燧石工具头&r&r和&#8B4513&l木棍&r&r，制成基础的工具"]
-	quest.5D9DA22BCDBD38E3.quest_desc: ["The &#8B4513&lInventory Connector&r&r can be connected to inventories, these can then be viewed "]
+	quest.5D9DA22BCDBD38E3.quest_desc: ["&#8B4513&l存储连接器&r&r可连接容器，使容器在终端中可见"]
 	quest.5DA1F9B26A151E13.quest_desc: ["Made inside the &lRefinery&r, there is a couple of ways to make this"]
-	quest.5E8367DFAF5747C8.quest_desc: ["&lBlueprint Paper&r is used to make various different Bl&lueprints&r which are used in the &lEngineer's Workbench&r"]
+	quest.5E8367DFAF5747C8.quest_desc: ["&l空白蓝图&r可制作在&l工程师装配台&r中使用的各种&l蓝图&r"]
 	quest.5FE27D8952337B2E.quest_desc: ["Crafted &5&lGaia Stone&r&r"]
 	quest.600B5859D960C6B6.quest_desc: ["Waste from the &5&lRestructurer&r&r"]
 	quest.602BE02C18721B83.quest_desc: ["在哪里可以找到这些矿物？"]
 	quest.602BE02C18721B83.title: "盖亚"
 	quest.603ED41C2C9E8FD4.quest_desc: ["挖掘&l石头&r获得。也可以合成出来"]
 	quest.6124E218241BC913.quest_desc: [
-		"There are various types of &0&lLocators&r&r, this one allows you to locate the &0&lCatacombs&r&r in &2&lThe Undergarden&r&r"
+		"&0&l定位器&r&r有很多种，这一个用于定位&2&l深暗之园&r&r中的&0&l下僻巢穴&r&r"
 		""
-		"Works like an &a&lEye of Ender&r&r so it has a chance to break when used!"
+		"它的工作方式与&a&l末影之眼&r&r类似，因此它也有几率碎掉！"
 	]
 	quest.6134FF1F3194A996.quest_desc: ["A block of gems"]
-	quest.6284C12EBDFC08B8.quest_desc: ["The first &2&lForgotten Template&r&r can be found in the &0&lCatacombs&r&r. Dirt piles in the Catacombs may contain a chest below"]
+	quest.6284C12EBDFC08B8.quest_desc: ["&0&l下僻巢穴&r&r中能找到的第一种&2&l遗忆模板&r&r。巢穴中的土堆下面可能埋着箱子"]
 	quest.629BFD0436EC491B.quest_desc: ["&#8B4513&l合金窑&r&r可以制造合金。8块&#8B4513&l窑砖&r&r搭成2x2x2，然后用&#8B4513&l锤子&r&r点击即可制成多方块结构"]
 	quest.629BFD0436EC491B.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.62C12A869CD6D94A.quest_desc: ["Spawns after killing the &0&lEnder Dragon&r&r"]
@@ -661,8 +661,8 @@
 		"&2&l树苗&r&r可合成&#8B4513&l木棍&r&r"
 	]
 	quest.63C4C884F5F3CBF1.quest_desc: ["Fuses materials together"]
-	quest.6421EB1686AA3752.quest_desc: ["Allows crafting with &lTemplates&r"]
-	quest.642735C042F81AE5.quest_desc: ["Made in the &#8B4513&lEngineer's Workbench&r&r"]
+	quest.6421EB1686AA3752.quest_desc: ["可使用&l模板&r制作物品"]
+	quest.642735C042F81AE5.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
 	quest.643F9F032A3E0B7A.quest_desc: ["随着游戏时间和游戏进度的推进，怪物会变得越来越强大！"]
 	quest.657377D0ADF42020.quest_desc: ["合成&0&l焦黑砖&r&r获得"]
 	quest.6583E46B220FB4CE.quest_desc: ["Made inside the &#8B4513&lBottling Machine&r&r"]
@@ -671,13 +671,13 @@
 	quest.6641774660A1537C.quest_desc: ["由&l熔融玻璃&r制得"]
 	quest.666178BDBA540E78.quest_desc: ["&#8B4513&l砧板&r&r可用于切割物品。将要切割的物品放在砧板上，然后用所需工具切割即可"]
 	quest.6696AAEEFC4F5779.quest_desc: ["A block of gems"]
-	quest.66B703C495554994.quest_desc: ["A better &lPickaxe&r with a better mining level"]
+	quest.66B703C495554994.quest_desc: ["更好的&l镐子&r，有更高的挖掘等级"]
 	quest.66DFE8D9E1F5B27E.quest_desc: ["Obtained after killing the &0&lWither&r&r"]
-	quest.678E73C49DD812DD.quest_desc: ["Crafted from &9&lImpure Froststeel&r&r"]
+	quest.678E73C49DD812DD.quest_desc: ["合成&9&l含杂霜钢矿&r&r获得"]
 	quest.67A2542F9B3A2734.quest_desc: ["由&0&l含杂煤炭&r&r和&c&l红砖块&r&r制成"]
-	quest.680C10669B52210B.quest_desc: ["A better set of armor"]
-	quest.680C10669B52210B.title: "Cloggrum Armor"
-	quest.680D6A8EFD2CFF55.quest_desc: ["Made inside the &0&lBlast Furnace&r&r"]
+	quest.680C10669B52210B.quest_desc: ["更好的盔甲"]
+	quest.680C10669B52210B.title: "扼塞盔甲"
+	quest.680D6A8EFD2CFF55.quest_desc: ["使用&0&l高炉&r&r制成"]
 	quest.6864F9B4FC5205F8.quest_desc: ["Used to make &6&lPrinted Logic Circuit&r&r"]
 	quest.69363F3E2D0C5E5E.quest_desc: ["坚固的碗"]
 	quest.6946557AF66020B3.quest_desc: ["Made on the &#8B4513&lBottling Machine&r&r"]
@@ -707,11 +707,11 @@
 		"将&#8B4513&l泥土&r&r放在&#8B4513&l砧板&r&r上，用&l锹&r敲打，有一定几率会掉落&7&l黏土球&r&r"
 	]
 	quest.6D5211FC325ACDC0.quest_desc: ["Can be used to create the &lCalculation Press&r"]
-	quest.6D9AAECB7861D126.quest_desc: ["The &#8B4513&lIndustrial Squeezer&r&r can be used to squeeze items"]
-	quest.6D9AAECB7861D126.quest_subtitle: "A Placer will make this easier to build..."
-	quest.6DE049C47027762E.quest_desc: ["Can be used to duplicate certain resources like &7&lCobblestone&r&r and &7&lStone&r&r"]
-	quest.6E11D5DFC8C64F28.quest_desc: ["The &#8B4513&lMixer&r&r can be used to mix &lItems&r and &lFluids&r together to create new &lFluids&r. Fluids must be pumped in"]
-	quest.6E11D5DFC8C64F28.quest_subtitle: "A Placer will make this easier to build..."
+	quest.6D9AAECB7861D126.quest_desc: ["&#8B4513&l工业挤压机&r&r可以挤压物品"]
+	quest.6D9AAECB7861D126.quest_subtitle: "用放置器搭建会更方便些……"
+	quest.6DE049C47027762E.quest_desc: ["可复制某些资源，例如&7&l圆石&r&r和&7&l石头&r&r"]
+	quest.6E11D5DFC8C64F28.quest_desc: ["&#8B4513&l搅拌机&r&r可混合&l物品&r和&l流体&r，制得新的&l流体&r。你需要将流体泵入搅拌机"]
+	quest.6E11D5DFC8C64F28.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.6E1CDA29E7EC877A.quest_desc: ["Used to make the &lDiesel Generator&r"]
 	quest.6E81375E7BD9D6F0.quest_desc: ["Made inside the &5&lRestructurer&r&r. The Crystal can only be obtained from &b&lPure Certus Quartz&r&r"]
 	quest.6E9C51590F835C59.quest_desc: ["The &0&lArc Furnace&r&r requires electrodes to run"]
@@ -721,7 +721,7 @@
 	quest.6F6ABB1CA79EA0BA.quest_desc: ["在&l&#8B4513耕地&r&r上种植&#8B4513&l工业大麻种子&r&r可以获得&#8B4513&l工业大麻纤维&r&r"]
 	quest.6F780BA83D5E0217.quest_desc: ["&l&7研钵和研杵&r可将物品磨成粉末"]
 	quest.6F817E513A1A455C.quest_desc: ["Obtained from the &lMining Lens&r"]
-	quest.6FB74805EB1CFEF8.quest_desc: ["用&7&l燧石&r&r&lshift+右击&r&7&l石头&r&r即可获得&7&l燧石碎片&r&r"]
+	quest.6FB74805EB1CFEF8.quest_desc: ["用&7&l燧石&r&r&lshift右击&r&7&l石头&r&r即可获得&7&l燧石碎片&r&r"]
 	quest.6FCB2DC5E6854E40.quest_desc: ["[ \"挖掘\", { \"text\": \"煤矿石\", \"underlined\": true, \"color\": \"black\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52246C0846D49379\" } }, \"掉落\"]"]
 	quest.70338BD83235F87A.quest_desc: ["简易的挖掘工具"]
 	quest.708E6E9F9B1CF4D4.quest_desc: ["A special block that can be used to turn &7&lStone&r&r like blocks into ores"]
@@ -737,7 +737,7 @@
 	quest.71487C2E17906785.quest_desc: ["Obtained from breaking ore from the &lMining Lens&r"]
 	quest.7198B1E4D5E51F78.quest_desc: ["Can be used to make machines like the &l&lCrusher&r&r, &0&lPumpjack&r&r and &0&lExcavator&r&r run faster"]
 	quest.71E097E3C900677F.quest_desc: ["&l破碎城&r中有一个商店。详情请查看&l商店章节&r"]
-	quest.71F92CE39747A014.quest_desc: ["Can be used to mine &d&lObsidian&r&r"]
+	quest.71F92CE39747A014.quest_desc: ["可挖掘&d&l黑曜石&r&r"]
 	quest.7293902C36929548.quest_desc: ["&lImpure Silver&r inside a &#8B4513&lSqueezer&r&r will create &lSilver Ingots&r"]
 	quest.73131B7921E80F31.quest_desc: ["让&0&l固化器&r&r制造&l棒&r"]
 	quest.7336AB92DD4B6785.quest_desc: [
@@ -752,7 +752,7 @@
 	quest.7336AB92DD4B6785.title: "红石矿石"
 	quest.73669C0F69532271.quest_desc: ["A block of &e&lPyrite&r&r"]
 	quest.73907FD573EDC3F1.quest_desc: ["Used to light the &lEnd Portal&r"]
-	quest.743FA61E24C26BBB.quest_desc: ["Made inside the &0&lSimple Mixer&r&r"]
+	quest.743FA61E24C26BBB.quest_desc: ["使用&0&l简易混合器&r&r制成"]
 	quest.7446C09CFFFCE2A4.quest_desc: ["用&l深园催化石&r点击&#8B4513&l处理过的石砖&r&r框架即可打开新维度的大门"]
 	quest.74B062AAB31C90BA.quest_desc: ["可点亮&4&l营火&r&r"]
 	quest.74B90EAE37174516.quest_desc: [
@@ -766,13 +766,13 @@
 	quest.74F2FA103751F198.quest_desc: ["Used to fill items like bottles and buckets"]
 	quest.74F2FA103751F198.quest_subtitle: "A Placer will make this easier to build..."
 	quest.7558E1DAAF8DDE1B.quest_desc: ["Made with the &lAtomic Reconstructor&r"]
-	quest.7562409EB10B88F6.quest_desc: ["The &lStorage Shelf&r is a multiblock that can be used to store &lCrates&r on. Crates provide storage for items"]
-	quest.7562409EB10B88F6.quest_subtitle: "A Placer will make this easier to build..."
-	quest.7562409EB10B88F6.title: "Storage Shelf"
+	quest.7562409EB10B88F6.quest_desc: ["&l收纳架&r是一个可存放&l储物箱&r的多方块结构。储物箱可以存储物品"]
+	quest.7562409EB10B88F6.quest_subtitle: "用放置器搭建会更方便些……"
+	quest.7562409EB10B88F6.title: "收纳架"
 	quest.7563E424B989D556.quest_desc: ["A vibrant dimension contains &lPurifying Water&r"]
 	quest.7563E424B989D556.title: "Enter The Light Colored Caves"
 	quest.758676465392CF65.quest_desc: ["Very strong"]
-	quest.759301934AA3C1B1.quest_desc: ["Can be used to duplicate certain fluids like &1&lWater&r&r and &4&lLava&r&r"]
+	quest.759301934AA3C1B1.quest_desc: ["可复制某些流体，例如&1&l水&r&r和&4&l熔岩&r&r"]
 	quest.75BAB29740266B80.quest_desc: ["A frame that allows access to the &5&lGaia Dimension&r&r"]
 	quest.75BD9038E158B0A1.quest_desc: ["可提供一定程度的保护"]
 	quest.75BD9038E158B0A1.title: "生存家盔甲"
@@ -784,7 +784,7 @@
 	quest.77623C41F3DFABF5.quest_subtitle: "A Placer will make this easier to build..."
 	quest.7775064177496889.quest_desc: ["Made inside the &lElectroCentrifuge&r"]
 	quest.7778A6C3645571EF.quest_desc: ["Almost home time"]
-	quest.77F8C899886003CB.quest_desc: ["Can be used to connect &#8B4513&lInventory Connectors&r&r across distances"]
+	quest.77F8C899886003CB.quest_desc: ["用于远距离连接&#8B4513&l存储连接器&r&r"]
 	quest.77FCD77B49E671AD.quest_desc: [
 		"&l赛特斯石英矿石&r"
 		""
@@ -793,9 +793,9 @@
 		"&l生物群系&r：全部"
 	]
 	quest.7861808BCEC1C690.quest_desc: ["Crafted from &lTitanium Nuggets&r"]
-	quest.78B20F0D0BE9859B.quest_desc: ["Used to create &lTools&r and &lArmor&r with &#8B4513&lCloggrum&r&r"]
-	quest.795B4DD4B6C94430.quest_desc: ["Used for more multiblocks"]
-	quest.795FD1CC9CE8998A.quest_desc: ["The &lCloche&r can be used to grow &2&lSeeds&r&r, &2&lCrops&r&r and &2&lSaplings&r&r"]
+	quest.78B20F0D0BE9859B.quest_desc: ["用于制造&#8B4513&l扼塞&r&r&l工具&r和&l盔甲&r"]
+	quest.795B4DD4B6C94430.quest_desc: ["用于更多多方块结构"]
+	quest.795FD1CC9CE8998A.quest_desc: ["&l玻璃罩&r可用来种植&2&l种子&r&r、&2&l作物&r&r和&2&l树苗&r&r"]
 	quest.7961A2CF4801468B.quest_desc: [
 		"&l铝矿石&r"
 		""
@@ -806,9 +806,9 @@
 		"需要使用&0&l挖掘机&r&r"
 	]
 	quest.7961A2CF4801468B.title: "铝矿石"
-	quest.79652BA2842C801B.quest_desc: ["Made inside the &0&lSolidifier&r&r&l"]
+	quest.79652BA2842C801B.quest_desc: ["使用&0&l固化器&r&r制成"]
 	quest.7969C7AEE7DA646F.quest_desc: ["可使用你的物品栏或相邻容器中的物品进行合成！"]
-	quest.79B6EE2999A6FA80.quest_desc: ["Made with &lWire Cutters&r"]
+	quest.79B6EE2999A6FA80.quest_desc: ["用&l剪线钳&r制得"]
 	quest.79F94400901690C7.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.79F94400901690C7.title: "Hot Hot Hot Catalog"
 	quest.7A174DC6026D31CD.quest_desc: ["Drops from &l&0Wither Skeletons&r&r. &lBeheading&r will help a lot"]
@@ -820,17 +820,17 @@
 	quest.7B191F638F9C0CED.quest_desc: ["[ \"Drops from \", { \"text\": \"Iron Ore\", \"underlined\": true, \"color\": \"white\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"17E6CA0559A2075A\" } } ]"]
 	quest.7BD529298480E2FC.quest_desc: ["Obtained from breaking ore from the &lMining Lens&r"]
 	quest.7C0FB00BF8E36170.quest_desc: ["你可以将&0&l含杂煤炭&r&r放入&7&l焦炉&r&r。一次至多处理16个"]
-	quest.7C3E713435B5B55D.quest_desc: ["Made in the &#8B4513&lEngineer's Workbench&r&r"]
-	quest.7C5AF877EE13E99B.quest_desc: ["View all connected inventories in one place!"]
+	quest.7C3E713435B5B55D.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
+	quest.7C5AF877EE13E99B.quest_desc: ["它可以访问所有与之相连的容器！"]
 	quest.7C93ED78F3CA4090.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.7C93ED78F3CA4090.title: "End Catalog"
-	quest.7C9C63FEAEFB21A3.quest_desc: ["A plate of &7&lSteel&r&r"]
+	quest.7C9C63FEAEFB21A3.quest_desc: ["&7&l钢&r&r制成的板子"]
 	quest.7CB849679C2D9D0A.quest_desc: ["Used to light the &l&zColored Cave Portals &r&r"]
 	quest.7D0D91030551D09E.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.7D0D91030551D09E.title: "Nether Catalog"
-	quest.7D23614782D02371.quest_desc: ["Connect to blocks you wanna provide or extract RF from"]
+	quest.7D23614782D02371.quest_desc: ["连接你想输入/输出RF的方块"]
 	quest.7D4AD5DAC52ED6A4.quest_desc: ["Can be used to create the &lControl Press&r"]
-	quest.7D5EDF58B982A037.quest_desc: ["Placing up high and adding a &#8B4513&lWindmill&r&r will allows the &7&lDynamo&r&r to produce RF"]
+	quest.7D5EDF58B982A037.quest_desc: ["将&7&l动能发电机&r&r放在高处，装上&#8B4513&l风车&r&r，即可生产RF"]
 	quest.7DA06A5FF2125AFF.quest_desc: [
 		"&l锡矿石&r"
 		""
@@ -843,8 +843,8 @@
 	quest.7DDD3FB8B7A1644D.quest_desc: ["Made with the &7&lAtomic Reconstructor&r&r"]
 	quest.7DF17CC8CA995685.quest_desc: ["Crafted &lResidue&r"]
 	quest.7E85F08E7F6C04E1.quest_desc: ["The final portal"]
-	quest.7EC9EE5BE91C7CC5.quest_desc: ["Broken down &0&lVoid Block&r&r"]
-	quest.7F442D12939B6F22.quest_desc: ["A simple wire. Can be connected to relays and connectors to move RF"]
+	quest.7EC9EE5BE91C7CC5.quest_desc: ["碎裂的&0&l虚空块&r&r"]
+	quest.7F442D12939B6F22.quest_desc: ["简易的电线。可连接到继电器和接线器，输送RF"]
 	quest.7F526021085689F0.quest_desc: ["[ \"Drops from \", { \"text\": \"Niobium Ore\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"74B90EAE37174516\" } } ]"]
 	quest.7F9344ED4C1BF2C6.quest_desc: ["[ \"Drops from \", { \"text\": \"Certus Quartz Ore\", \"underlined\": true, \"color\": \"blue\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"77FCD77B49E671AD\" } } ]"]
 	quest.7FA5C1B532BC2D51.quest_desc: ["Allows the &0&lSolidifier&r&r and &#8B4513&lMetal Press&r&r to create &e&lEmpty Casings&r&r"]
@@ -854,14 +854,14 @@
 	task.028CDB55E7124977.title: "任务"
 	task.04908DFB17291048.title: "Diesel Generator"
 	task.04E451970301EB3D.title: "光影"
-	task.0526B82B75C37B98.title: "Any #functionalstorage:drawer"
+	task.0526B82B75C37B98.title: "任意#functionalstorage:drawer"
 	task.07784DA776E08879.title: "煤矿石"
 	task.07F0628147610F0E.title: "Phenolic Resin"
 	task.09F45D32F08041E9.title: "Benzol"
 	task.0A3AB0AFE3B97234.title: "The Nether"
 	task.0D42A3FCCFB419BE.title: "御腐矿石"
-	task.0E0B0F212058F5AB.title: "Industrial Squeezer"
-	task.104CC4F6F3D8B202.title: "Void Fuel"
+	task.0E0B0F212058F5AB.title: "工业挤压机"
+	task.104CC4F6F3D8B202.title: "虚空燃料"
 	task.10C20F1AA88C95C2.title: "任意#c:player_workstations/crafting_tables"
 	task.1119B5090688F959.title: "任意#minecraft:leaves"
 	task.128AE77AABFAEF02.title: "灼热矿石"
@@ -876,8 +876,8 @@
 	task.208055542104610B.title: "技能"
 	task.22933FB24B04B4DB.title: "红石矿石"
 	task.2369B61BC4493A3B.title: "Bottling Machine"
-	task.244DF30173962FB6.title: "Ethonal"
-	task.2470CEBC6F1D4E6F.title: "Shelf"
+	task.244DF30173962FB6.title: "乙醇"
+	task.2470CEBC6F1D4E6F.title: "架子"
 	task.262CD0F2BA6E1702.title: "铅矿石"
 	task.277A9DFF8FAA8D82.title: "焦炉"
 	task.27EB98947AA17149.title: "钛矿石"
@@ -890,16 +890,16 @@
 	task.31BF12D61BB93961.title: "Pumpjack"
 	task.325FBFA17951CF69.title: "公开服务器"
 	task.3287BB68C41CDF56.title: "Oil Tank"
-	task.33E7689A814E7EFD.title: "Assembler"
+	task.33E7689A814E7EFD.title: "装配机"
 	task.3494AF5E1EE087BC.title: "连锁破坏"
-	task.353D1816E578A459.title: "Enter The Undergarden"
+	task.353D1816E578A459.title: "进入深暗之园"
 	task.35AD0D6AFE2A561D.title: "传送门"
 	task.367F5105EEC975B7.title: "Impure Iron"
 	task.38C83E2AEC31AF03.title: "资源包"
 	task.3A6A7531A58B1426.title: "高炉"
 	task.3B8E5A535C52FD9A.title: "Distillation Tower"
 	task.3C3131FB56491FFE.title: "Arc Furnace"
-	task.3C5E01C3A9AB9A96.title: "Metal Press"
+	task.3C5E01C3A9AB9A96.title: "金属冲压机"
 	task.3DC2D20B6588B288.title: "矿物"
 	task.3DC36D5581963B10.title: "盖亚"
 	task.3FFDF65406D04C5F.title: "Lightning Rod"
@@ -918,13 +918,13 @@
 	task.52E6C4F148BB69E8.title: "任意#minecraft:planks"
 	task.53C5D6374A204502.title: "红色蛋白石矿石"
 	task.54B9E7076B51BD2B.title: "Coker Unit"
-	task.5592F0869569DBAA.title: "Redstone Acid"
-	task.578EA439B83D9E63.title: "Crusher"
+	task.5592F0869569DBAA.title: "红石酸"
+	task.578EA439B83D9E63.title: "粉碎机"
 	task.59FB2E53375A2355.title: "Survial Catalog"
-	task.5C981663B2FC9F66.title: "Any #functionalstorage:fluid_drawer"
+	task.5C981663B2FC9F66.title: "任意#functionalstorage:fluid_drawer"
 	task.5E81626714605BBF.title: "The End"
 	task.5EB854EC740929A2.title: "Derrick"
-	task.602F5222F0246EAF.title: "Auto Workbench"
+	task.602F5222F0246EAF.title: "自动装配台"
 	task.62206090F5594825.title: "末地"
 	task.641A616B320915ED.title: "洞穴"
 	task.6558495010C1CDF5.title: "怪物"
@@ -934,9 +934,9 @@
 	task.6D1F5088FBD5CE5F.title: "蓝色蛋白石矿石"
 	task.6EBD991C2BC7DD27.title: "Excavator"
 	task.6F48E8EB93293054.title: "Biodiesel"
-	task.71ED2C9186283834.title: "Enter The Void"
-	task.7334971FC0DECE97.title: "Fermenter"
+	task.71ED2C9186283834.title: "进入虚空"
+	task.7334971FC0DECE97.title: "发酵机"
 	task.7C7284BFD3944488.title: "Crude Oil"
-	task.7CCCB53780475D1C.title: "Mixer"
+	task.7CCCB53780475D1C.title: "搅拌机"
 	task.7E69B64A268382CE.title: "任意#minecraft:logs"
 }
