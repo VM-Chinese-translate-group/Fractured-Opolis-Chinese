@@ -1,7 +1,7 @@
 {
   "packId": 1518508,
   "packName": "Fractured Opolis",
-  "versionPattern": "Fractured Opolis-{version}",
+  "versionPattern": "Fractured-{version}",
   "mcVersion": "1.21.1", 
   "loader": "neoforge",
   "updateMethod": "api",

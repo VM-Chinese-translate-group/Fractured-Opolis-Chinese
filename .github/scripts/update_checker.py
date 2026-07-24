@@ -72,17 +72,29 @@ def extract_clean_version(full_name, pattern):
     Extracts a clean version string from a full name using a pattern.
     Example: "Techopolis 3-7.0" with pattern "Techopolis 3-{version}" -> "7.0"
     """
-    if not pattern or "{version}" not in pattern:
+    if not pattern:
         return full_name
-    try:
-        prefix, suffix = pattern.split("{version}")
-        regex_pattern = f"^{re.escape(prefix)}(.*){re.escape(suffix)}$"
-        match = re.match(regex_pattern, full_name)
-        if match:
-            return match.group(1).strip()
-    except ValueError:
-        print(f"Warning: Invalid version pattern '{pattern}'.")
-    return full_name
+    if pattern.count("{version}") != 1:
+        raise ValueError(
+            "versionPattern must contain exactly one '{version}' placeholder."
+        )
+
+    prefix, suffix = pattern.split("{version}")
+    regex_pattern = f"{re.escape(prefix)}(.*){re.escape(suffix)}"
+    match = re.fullmatch(regex_pattern, full_name)
+    if not match:
+        raise ValueError(
+            f"CurseForge file name '{full_name}' does not match versionPattern "
+            f"'{pattern}'. Update versionPattern to match the file name exactly."
+        )
+
+    clean_version = match.group(1).strip()
+    if not clean_version:
+        raise ValueError(
+            f"CurseForge file name '{full_name}' produced an empty version using "
+            f"versionPattern '{pattern}'."
+        )
+    return clean_version
 
 
 def reconstruct_full_name(clean_version, pattern):
@@ -282,7 +294,14 @@ def main():
         latest_version_id = latest_file_info["id"]
         latest_download_url = latest_file_info["downloadUrl"]
 
-        if local_full_name == latest_full_name:
+        try:
+            latest_clean_version = extract_clean_version(
+                latest_full_name, version_pattern
+            )
+        except ValueError as e:
+            sys.exit(f"Error: {e}")
+
+        if local_clean_version == latest_clean_version:
             print("Already up to date. Exiting.")
             return
 
@@ -302,7 +321,6 @@ def main():
                 f"Warning: Could not find version ID for local version '{local_full_name}'. Diff report will not be generated."
             )
 
-        latest_clean_version = extract_clean_version(latest_full_name, version_pattern)
         print(
             f"New version found: {latest_clean_version} (Full name: {latest_full_name}, ID: {latest_version_id})"
         )

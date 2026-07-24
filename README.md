@@ -109,7 +109,9 @@
   "updateMethod": "cursethebeast",
   
   // [可选, 仅用于 'api' 方法] 版本号解析模板。
-  // 用于从 CurseForge API 返回的完整文件名中提取干净的版本号。
+  // 必须与 CurseForge 返回的实际文件名完全对应，并且只包含一个 {version}。
+  // 例如文件名 Fractured-4.0.zip 应配置为 Fractured-{version}。
+  // 模板不匹配时工作流会停止，避免把完整文件名误写成版本号。
   "versionPattern": "FTB StoneBlock 4 {version}",
 
   // [可选] "关注列表"，指定脚本只检查特定文件或文件夹的变更，可提高效率。
