@@ -30,9 +30,10 @@
    | 名称    | 值                                       |
    | ------- | ---------------------------------------- |
    | API_KEY | 你的 Paratranz token，需具备上传文件权限 |
-   | CF_API_KEY| 如果采用CurseForge源检查更新须填此项|
+   | CF_API_KEY | 使用 CurseForge API 检查更新时必填；只填写原始 key，不要添加引号 |
 
    🔑 Token 可在 [Paratranz 用户设置页](https://paratranz.cn/users/my) 获取。
+   CurseForge API Key 请按[官方 REST API 文档](https://docs.curseforge.com/rest-api/)申请或生成；文档要求第三方模组服务先申请 API 访问权限。如果工作流返回 HTTP 401/403，说明 CurseForge 未接受该 key；请确认授权或重新生成后，覆盖 `PARATRANZ_ENV` 环境中的 `CF_API_KEY` secret。
 
 3. 在该环境中添加 **环境变量（Environment variables）**：
 

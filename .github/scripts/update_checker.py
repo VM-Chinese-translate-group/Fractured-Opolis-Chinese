@@ -175,7 +175,7 @@ def apply_exclusion_rules(file_set, exclusion_patterns, root_path):
 
 def main():
     # --- Configuration and Setup ---
-    api_key = os.getenv("CF_API_KEY")
+    api_key = (os.getenv("CF_API_KEY") or "").strip()
 
     repo_root = Path(".")
     config_path = repo_root / ".github" / "configs" / "modpack.json"
@@ -242,12 +242,29 @@ def main():
                 "Error: CurseForge API key (CF_API_KEY) not found. Required for 'api' update method."
             )
 
-        headers = {"x-api-key": api_key}
+        headers = {"Accept": "application/json", "x-api-key": api_key}
         api_url = f"https://api.curseforge.com/v1/mods/{pack_id}/files?pageSize=50"
         try:
             response = requests.get(api_url, headers=headers)
             response.raise_for_status()
             files_data = response.json()["data"]
+        except requests.exceptions.HTTPError as e:
+            status_code = e.response.status_code if e.response is not None else None
+            if status_code in (401, 403):
+                sys.exit(
+                    f"Error: CurseForge API rejected CF_API_KEY (HTTP {status_code}). "
+                    "The current REST API still uses the /v1 endpoint and x-api-key "
+                    "header. Generate or verify an authorized key using the official "
+                    "instructions at https://docs.curseforge.com/rest-api/ (third-party "
+                    "services must apply for API access), then save the raw key (without "
+                    "quotes) as the CF_API_KEY secret in the PARATRANZ_ENV environment."
+                )
+            if status_code == 429:
+                sys.exit(
+                    "Error: CurseForge API rate limit exceeded (HTTP 429). "
+                    "Wait before rerunning the workflow."
+                )
+            sys.exit(f"Error fetching data from CurseForge API: {e}")
         except requests.exceptions.RequestException as e:
             sys.exit(f"Error fetching data from CurseForge API: {e}")
         except (KeyError, IndexError):
