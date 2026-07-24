@@ -1,8 +1,8 @@
 {
-    "generator.fractured.fractured": "Fractured",
+    "generator.fractured.fractured": "破碎城",
 
-    "desc.immersiveengineering.info.blueprint.engineering_blocks": "Engineering Blocks",  
-    "desc.immersiveengineering.info.blueprint.conveyor": "Conveyors",
+    "desc.immersiveengineering.info.blueprint.engineering_blocks": "工程块",  
+    "desc.immersiveengineering.info.blueprint.conveyor": "传送带",
     "desc.immersiveengineering.info.mineral.overworld": "Overworld Deposite",
     "desc.immersiveengineering.info.mineral.nether": "Nether Deposite",
     "desc.immersiveengineering.info.mineral.end": "End Deposite",
