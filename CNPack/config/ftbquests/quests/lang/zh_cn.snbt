@@ -366,7 +366,7 @@
 	quest.361322EEFF0A4E34.quest_desc: ["用于制作&7&l燧石工具&r&r"]
 	quest.361D6D0C32F5212C.quest_desc: ["合成&l石英&r和&0&l黑色残渣&r&r获得"]
 	quest.366FE08EE4DF27C2.quest_desc: ["使用&0&l电弧炉&r&r制得"]
-	quest.3675D49F591079A9.quest_desc: ["用于将&l含杂矿物&r纯化为&l纯的&r矿物"]
+	quest.3675D49F591079A9.quest_desc: ["用于将&l含杂矿物&r纯化为&l纯&r矿物"]
 	quest.367E9D3AD78A5B29.quest_desc: ["可以装载&#8B4513&l杂酚油&r&r之类的燃料，生产大量RF"]
 	quest.367E9D3AD78A5B29.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.36D380A56080807F.quest_desc: ["使用&0&l固化器&r&r或&#8B4513&l金属冲压机&r&r制得"]
@@ -422,7 +422,7 @@
 	quest.3FC44FAA98E0C1A8.quest_desc: ["合成&c&l御腐破片&r&r获得"]
 	quest.416DB413A109C16C.quest_desc: ["&4&l营火&r&r可以把&7&l圆石&r&r烧成&7&l石头&r&r"]
 	quest.418613C121E2EA5C.quest_desc: ["在&l装配机&r中制成"]
-	quest.418F6CE3159E1019.quest_desc: ["&0&l虚空法杖&r&r支持128格内的&l传送&r，右击目标方块即可将你传送过去"]
+	quest.418F6CE3159E1019.quest_desc: ["&0&l虚空法杖&r&r可以进行128格内的&l传送&r，右击目标方块即可将你传送过去"]
 	quest.4193F2B5376B8AA7.quest_desc: ["&e&l金&r&r与&l银&r的合金"]
 	quest.42024C4DAC805D7E.quest_desc: ["用于制作&7&l燧石工具&r&r"]
 	quest.4209913428F5F428.quest_desc: ["使用&#8B4513&l搅拌机&r&r制得"]
