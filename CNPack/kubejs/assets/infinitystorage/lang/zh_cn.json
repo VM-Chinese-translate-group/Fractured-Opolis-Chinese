@@ -1,8 +1,8 @@
 {
-  "itemGroup.infinitystorage": "Infinity Storage",
-  "block.infinitystorage.infinity_storage_drive": "Infinity Storage Drive Block",
-  "item.infinitystorage.infinity_cobblestone_drive": "Infinity Cobblestone Drive",
-  "item.infinitystorage.infinity_water_drive": "Infinity Water Drive",
-  "item.infinitystorage.infinity_lava_drive": "Infinity Lava Drive",
-  "item.infinitystorage.empty_infinity_drive": "Empty Infinity Drive"
+  "itemGroup.infinitystorage": "无限存储",
+  "block.infinitystorage.infinity_storage_drive": "无限存储驱动器",
+  "item.infinitystorage.infinity_cobblestone_drive": "无限圆石硬盘",
+  "item.infinitystorage.infinity_water_drive": "无限水硬盘",
+  "item.infinitystorage.infinity_lava_drive": "无限熔岩硬盘",
+  "item.infinitystorage.empty_infinity_drive": "空无限硬盘"
 }

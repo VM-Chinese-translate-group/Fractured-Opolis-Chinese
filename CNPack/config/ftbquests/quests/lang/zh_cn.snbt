@@ -1,5 +1,5 @@
 {
-	chapter.07C561B1E198D1D8.title: "The End"
+	chapter.07C561B1E198D1D8.title: "末地"
 	chapter.18FE7037F60F9DC2.title: "生存"
 	chapter.1F5C7171F549B99A.title: "彩色洞穴"
 	chapter.2629338A496C04F8.title: "信息"
@@ -19,13 +19,13 @@
 	quest.00B2C447F5E3DF91.quest_desc: ["混合流体，制成&l合金&r或新的&l流体&r"]
 	quest.0158E7C6C7E8A767.quest_desc: ["粉碎&0&l石油焦&r&r获得"]
 	quest.018B06C1A5F159DC.quest_desc: ["穿戴整套&7&l法拉第盔甲&r&r，站在多方块&e&l避雷针&r&r的顶端，使用此物品会使得你被&e&l闪电&r&r击中"]
-	quest.01B652F94D801583.quest_desc: ["Made inside the &lMixer&r"]
-	quest.01C3824E489E75D7.quest_desc: ["使用&l研磨机&r制得"]
+	quest.01B652F94D801583.quest_desc: ["使用&l搅拌机&r制得"]
+	quest.01C3824E489E75D7.quest_desc: ["使用&l粉碎机&r制得"]
 	quest.01DAEA4A48B7BB4B.quest_desc: ["[ \"挖掘\", { \"text\": \"钛矿石\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"377B5CB9B8F6562E\" } }, \"掉落\"]"]
 	quest.02BE5D230D9C3015.quest_desc: ["合成&#8B4513&l含杂扼塞矿&r&r获得"]
 	quest.02DA07EE0352087B.quest_desc: ["用&0&l高炉&r&r烧炼&9&l霜钢&r&r制得"]
 	quest.034F5FADEF2EB690.quest_desc: ["使用&#8B4513&l干燥台&r&r制得"]
-	quest.036D85B2500732DE.quest_desc: ["Allows you to make &lPolymer Bars&r"]
+	quest.036D85B2500732DE.quest_desc: ["用于制造&l聚合物条&r"]
 	quest.047D74E10724B489.quest_desc: ["使用&l重构机&r制得"]
 	quest.04C204A509F34264.quest_desc: [""]
 	quest.04D8E2A4D39A368C.quest_desc: [
@@ -35,15 +35,15 @@
 	]
 	quest.04D8E2A4D39A368C.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.051238EFDB57857E.quest_desc: ["用于制造&l高压线&r"]
-	quest.05CC0E75356103F3.quest_desc: ["Used to create the &lEnd Portal&r"]
+	quest.05CC0E75356103F3.quest_desc: ["用于搭建&l末地传送门&r"]
 	quest.06D4B1E5FE22C9C4.quest_desc: [
 		"&2&l深暗之园&r&r是唯一一个能够直接从&l主世界&r进入的维度。你需要用&#8B4513&l处理过的石砖&r&r搭建一个传送门，然后用&l深园催化石&r点亮它。"
 		""
 		"至少需要10个&l框架&r方块，搭建方式与&l下界传送门&r相同"
 	]
-	quest.06E82AD5B86D8A7F.quest_desc: ["The &lMixer&r is like a mini version of the &0&lMixer&r&r"]
+	quest.06E82AD5B86D8A7F.quest_desc: ["这个&l搅拌机&r相当于一个迷你版多方块&0&l搅拌机&r&r"]
 	quest.072E309B1EAC0618.quest_desc: ["在&0&l固化器&r&r中将&7&l熔融石头&r&r注入&0&l镐头铸模&r&r即可获得"]
-	quest.07652DF92EF47EEA.quest_desc: ["&2&l闪耀果&r&r生长在&l主世界&r的丛林群系中。&c&l下界疣&r&r被&e&l闪电&r&r击中也可以变成&2&l闪耀果&r&r"]
+	quest.07652DF92EF47EEA.quest_desc: ["&2&l电浆果&r&r生长在&l主世界&r的丛林群系中。&c&l下界疣&r&r被&e&l闪电&r&r击中也可以变成&2&l电浆果&r&r"]
 	quest.076F6B7D18BA5598.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.076F6B7D18BA5598.title: "Undergarden Catalog"
 	quest.07CC92C56487C17A.quest_desc: [
@@ -53,10 +53,10 @@
 		"&l生物群系&r：全部"
 	]
 	quest.07CC92C56487C17A.title: "铀矿石"
-	quest.07F1BBE40CB19C91.quest_desc: ["Allows the Assembly of high level parts"]
+	quest.07F1BBE40CB19C91.quest_desc: ["可组装高端零件"]
 	quest.08C773C0351D6B12.quest_desc: ["手持此物靠近支持此加装的多方块结构，会显示正确的安装位置"]
 	quest.08DB10901054DDFA.quest_desc: ["制造电路板至关重要的材料"]
-	quest.098CC4DC658E8EB0.quest_desc: ["The ultimate crafting table "]
+	quest.098CC4DC658E8EB0.quest_desc: ["终极工作台"]
 	quest.0995D9D8B64CCE33.quest_desc: ["用于点亮从&0&l虚空&r&r前往&6&l破碎沙漠&r&r的传送门"]
 	quest.099D068DD7DDF318.quest_desc: ["&0&l末影蓄水槽&r&r可以相互连接到一起。你可以用染料来配置它们。使用&a&l遗忆粒&r&r可将&0&l末影蓄水槽&r&r设为私人所有"]
 	quest.0A2B401391509BB1.quest_desc: ["用于搭建&#8B4513&l合金窑&r&r"]
@@ -78,7 +78,7 @@
 	quest.0B71DEB4F77207C7.quest_desc: ["可大量存储单一&l流体&r"]
 	quest.0B71DEB4F77207C7.title: "流体抽屉"
 	quest.0B88FF01EB0BD5A5.quest_desc: ["使用&5&l重构机&r&r制得"]
-	quest.0BF39BA3C826C1FD.quest_desc: ["Can be used to create the &lEngineering Press&r"]
+	quest.0BF39BA3C826C1FD.quest_desc: ["用于制造&l工程压印模板&r"]
 	quest.0C32CE27954E9105.quest_desc: ["一个暗淡的维度，里面有&l腐蚀水&r"]
 	quest.0C32CE27954E9105.title: "进入暗色洞穴"
 	quest.0C721EC44FCA6FDA.quest_desc: ["&0&l震波探测器&r&r的探测结果，显示了周围区块中的流体储量。在&6&l破碎沙漠&r&r中可以找到原油"]
@@ -113,7 +113,7 @@
 		"再次右击卸下&e&l空弹筒&r&r"
 	]
 	quest.107224F16C1E48E5.quest_desc: ["在&#8B4513&l搅拌机&r&r中搅拌&l&6汽油&r&r和&7&l铝粉&r&r获得"]
-	quest.108141B0EF0C6739.quest_desc: ["&6&lGlow Berries&r&r can also struck by &e&lLightning&r&r to create &2&lVitriol Berries&r&r"]
+	quest.108141B0EF0C6739.quest_desc: ["&6&l发光浆果&r&r被&e&l闪电&r&r击中可变成&2&l强酸莓&r&r"]
 	quest.1098BBDB7BBB45DE.quest_desc: ["&4&l营火&r&r可以取暖，也可以烤制食物和&7&l圆石&r&r"]
 	quest.1112F243E43EE85E.quest_desc: [
 		"矿物生成在世界各地的巨大矿脉中"
@@ -160,7 +160,7 @@
 	quest.1627529870C8F442.quest_desc: ["&0&l蒸馏塔&r&r的产物"]
 	quest.16314D7820DC899B.quest_desc: ["使用&#8B4513&l灌装机&r&r制得"]
 	quest.16536A481A65F9D2.quest_desc: ["在&0&l精炼厂&r&r中精炼&l乙醛&r和&#8B4513&l杂酚油&r&r获得"]
-	quest.16A1DE2C911A27A6.quest_desc: ["使用&l研磨机&r制得"]
+	quest.16A1DE2C911A27A6.quest_desc: ["使用&l粉碎机&r制得"]
 	quest.16AB4B76A6BD0B37.quest_desc: ["&#8B4513&l自动装配台&r&r可按照指定&9&l蓝图&r&r自动制造物品"]
 	quest.16AB4B76A6BD0B37.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.16AB4B76A6BD0B37.title: "自动装配台"
@@ -192,9 +192,9 @@
 	quest.18E2A6B88E47A449.quest_desc: ["[ \"挖掘\", { \"text\": \"蓝色蛋白石矿石\", \"underlined\": true, \"color\": \"blue\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"392E6E0C5A3E48C5\"} }, \"掉落\"]"]
 	quest.192FA13D5043F934.quest_desc: ["&l&l电弧炉&r&r是一个非常强大的机器，可以制造合金和熔炼物品。耗能大户"]
 	quest.194420C16D42D6CE.quest_desc: ["[ \"挖掘\", { \"text\": \"霜钢矿石\", \"underlined\": true, \"color\": \"blue\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2F866D99F716E28B\" } }, \"掉落\"]"]
-	quest.1978C0A1FE18504C.quest_desc: ["Made on the &0&lMetal Press&r&r"]
-	quest.19C6F2DB3B517D91.quest_desc: ["This world is really fractured "]
-	quest.19C6F2DB3B517D91.title: "Enter The End"
+	quest.1978C0A1FE18504C.quest_desc: ["使用&0&l金属冲压机&r&r制得"]
+	quest.19C6F2DB3B517D91.quest_desc: ["这个世界支离破碎"]
+	quest.19C6F2DB3B517D91.title: "进入末地"
 	quest.1AC4C846E0F90EA7.quest_desc: ["用&7&l研钵和研杵&r&r研磨&e&l小麦&r&r获得"]
 	quest.1AC7703FD1B75766.quest_desc: ["[ \"挖掘\", { \"text\": \"远古残骸\", \"underlined\": true, \"color\": \"#8b4513\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2FE85C58AA7693AD\" } }, \"掉落\"]"]
 	quest.1B960A09F2CE341B.quest_desc: ["&l铁制外壳&r可用于制造&l实用拓展（Actually Additions）模组&r的机器"]
@@ -209,7 +209,7 @@
 	quest.1CA226A22FBD6A9A.quest_desc: ["[ \"挖掘\", { \"text\": \"白色蛋白石矿石\", \"underlined\": true, \"color\": \"white\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"302185C254A81930\" } }, \"掉落\"]"]
 	quest.1D2106911904AA10.quest_desc: ["用&0&l电弧炉&r&r加工&7&l含杂铝矿&r&r获得"]
 	quest.1D3524C227F3BE28.quest_desc: ["[ \"挖掘\", { \"text\": \"金矿石\", \"underlined\": true, \"color\": \"yellow\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"70EE32C3CD61C180\" } }, \"掉落\"]"]
-	quest.1D738A5A492D5873.quest_desc: ["Made inside the &lElectroCentrifuge&r"]
+	quest.1D738A5A492D5873.quest_desc: ["使用&l电解离心机&r制得"]
 	quest.1D8D1DC74B3C3ADB.quest_desc: ["使用&#8B4513&l发酵机&r&r制得"]
 	quest.1D8D1DC74B3C3ADB.title: "乙醇"
 	quest.1DC0DEDCB4B2E7EB.quest_desc: ["在物品栏中时，可缓慢给其他&l时元&r设备（如电池）充能"]
@@ -226,9 +226,9 @@
 	]
 	quest.203A4E27F749C562.quest_desc: ["The &lShop&r allows you to B&luy&r and &lSell&r items. The &lShop&r requires a &lCatalog&r to use "]
 	quest.204DBF02939A76C5.quest_desc: ["&2孔雀石守卫&r的掉落物"]
-	quest.20801D06242FCD04.quest_desc: ["Made inside the &lGrinder&r"]
+	quest.20801D06242FCD04.quest_desc: ["使用&l粉碎机&r制得"]
 	quest.20E9A18E3608162F.quest_desc: ["由&4&l下界砖&r&r和&4&l岩浆块&r&r制成"]
-	quest.211BE3C8BC6FD916.quest_desc: ["From &l&9Raw Niobium&r&r"]
+	quest.211BE3C8BC6FD916.quest_desc: ["由&l&9粗铌&r&r制得（译注：粗铌需要先磨成粉碎铌矿石）"]
 	quest.21272C07AFACC7D0.quest_desc: ["砍树，获得木头"]
 	quest.21272C07AFACC7D0.title: "伐木机"
 	quest.212C8F53C6562A70.quest_desc: ["使用&5&l重构机&r&r制得"]
@@ -292,7 +292,7 @@
 	quest.2B3FE8E65609242B.quest_desc: ["&7&l铝&r&r制成的板子"]
 	quest.2C4D801A6047173D.quest_desc: ["让&0&l固化器&r&r制造&l粉&r"]
 	quest.2C73F8B0A8370E41.quest_desc: ["未铸成的锭"]
-	quest.2CBE3AE43EA28194.quest_desc: ["&lEmpty Upgrade Modules&r can be used to make &lLTX Industries&r machines better "]
+	quest.2CBE3AE43EA28194.quest_desc: ["&l空白升级模块&r可用于升级&lLTX Industries&r模组的机器"]
 	quest.2D026D02EBCD3D16.quest_desc: ["在&l熔炉&r中烧炼&0&l原木&r&r获得"]
 	quest.2D181FF935A1FE6D.quest_desc: [
 		"&l扼塞矿石&r"
@@ -301,7 +301,7 @@
 		"&l维度&r：深暗之园"
 		"&l生物群系&r：除渊邃以外"
 	]
-	quest.2D36D8128832B70D.quest_desc: ["Made inside the &lMaterial Infusing Chamber&r"]
+	quest.2D36D8128832B70D.quest_desc: ["使用&l材料熔合仓&r制得"]
 	quest.2D60368F24A4C80C.quest_desc: ["用于点亮&5&l钥石传送门&r&r，前往&5&l盖亚维度&r&r"]
 	quest.2D712EC43BA9C655.quest_desc: ["[ \"挖掘\", { \"text\": \"扼塞矿石\", \"underlined\": true, \"color\": \"#8b4513\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2D181FF935A1FE6D\" } }, \"掉落\"]"]
 	quest.2DBEE8FAB832D8A1.quest_desc: ["由&l&#8B4513树枝&r&r合成，或破坏&2&l树叶&r&r获得"]
@@ -314,7 +314,7 @@
 	quest.2ED575C7F52113CF.quest_desc: ["&1&l水&r&r与&4&l熔岩&r&r的合金"]
 	quest.2F01B7AB4B4ABC2A.quest_desc: ["用于制作&7&l研钵和研杵&r&r"]
 	quest.2F244CF1D13B0F30.quest_desc: ["用于制造&l弹射物&r"]
-	quest.2F32CDFEB0550FC1.quest_desc: ["A super circuit"]
+	quest.2F32CDFEB0550FC1.quest_desc: ["超级电路板"]
 	quest.2F3E2008B4143E60.quest_desc: ["随身携带的饮品"]
 	quest.2F5E953A83883A0F.quest_desc: ["用于制造&#8B4513&l传送带&r&r"]
 	quest.2F866D99F716E28B.quest_desc: [
@@ -344,18 +344,18 @@
 	]
 	quest.304820ECB11897F0.quest_desc: ["软"]
 	quest.308619C5694C9BC0.quest_desc: ["使用&0&l挤压机&r&r制得"]
-	quest.31B498E957946CE4.quest_desc: ["The &lGrinder&r is like a mini version of the &0&lCrusher&r&r"]
+	quest.31B498E957946CE4.quest_desc: ["这个&l粉碎机&r相当于一个迷你版多方块&0&l粉碎机&r&r"]
 	quest.31C0DC0B9A28D93F.quest_desc: ["用于制作&7&l燧石工具&r&r"]
 	quest.31E93CBE12506CBE.quest_desc: ["&7&l发酵机&r&r可利用有机材料生产&l乙醇&r"]
 	quest.31E93CBE12506CBE.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.32B94B1452E8A054.quest_desc: ["&7&l沙砾&r&r是世界中一种常见的资源"]
 	quest.332CB14725979954.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
 	quest.33BAB6928043C27B.quest_desc: ["&0&l风车&r&r可少量生产RF。需要连接到发电机"]
-	quest.33BD68EB4BBFC6EE.quest_desc: ["Made in the &lChem Lab&r"]
+	quest.33BD68EB4BBFC6EE.quest_desc: ["在&l化学反应器&r中制得"]
 	quest.33BFE6241D31E892.quest_desc: ["粉碎&e&l砂岩&r&r获得"]
 	quest.3433CDEB94AEE841.quest_desc: ["集成了访问容器与合成功能"]
-	quest.34558283114852CA.quest_desc: ["Made inside the &lFabricator&r"]
-	quest.34B34434E6A0ECBD.quest_desc: ["I see you"]
+	quest.34558283114852CA.quest_desc: ["在&l组装器&r中制成"]
+	quest.34B34434E6A0ECBD.quest_desc: ["我看见你了"]
 	quest.34FF1729FBE766A1.quest_desc: ["合成&l残渣&r获得"]
 	quest.3590262C74937C98.quest_desc: [
 		"&0&l岩芯钻井&r&r可以探查地下的资源。"
@@ -403,16 +403,16 @@
 		"两个&l含杂矿物&r可制成一个&l锭&r"
 	]
 	quest.3CC6C32949C4957F.quest_desc: ["将&#8B4513&l含杂镍矿&r&r放入&#8B4513&l挤压机&r&r中挤压可以得到&#8B4513&l镍锭&r&r"]
-	quest.3D615B46A5CE7379.quest_desc: ["使用&l研磨机&r制得"]
+	quest.3D615B46A5CE7379.quest_desc: ["使用&l粉碎机&r制得"]
 	quest.3D6D697E9BD2DE80.quest_desc: ["让玩家可以在此方块的作用范围内飞行"]
-	quest.3DA701BEBB148166.quest_desc: ["From the City at the End of the Game"]
-	quest.3E013CEEBB0F8005.quest_desc: ["Teleports you to the center island of &lThe End&r. Prepare for battle"]
-	quest.3E056026D0B86829.quest_desc: ["Made on the &0&lMetal Press&r&r"]
+	quest.3DA701BEBB148166.quest_desc: ["来自游戏尽头的城市"]
+	quest.3E013CEEBB0F8005.quest_desc: ["将你传送到&l末地&r主岛。准备好战斗吧"]
+	quest.3E056026D0B86829.quest_desc: ["使用&0&l金属冲压机&r&r制得"]
 	quest.3E7AA207262A2655.quest_desc: ["挖掘&l矿工透镜&r转化出的矿石获得"]
 	quest.3E86538DC1DD213A.quest_desc: ["&0&l末影电池&r&r可以相互连接到一起。你可以用染料来配置它们。使用&a&l遗忆粒&r&r可将&0&l末影电池&r&r设为私人所有"]
 	quest.3ECD5E8BA2A00743.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.3ECD5E8BA2A00743.title: "Void Catalog"
-	quest.3EF59442607AD0B9.quest_desc: ["Spawns on the &lOuter End Islands&r"]
+	quest.3EF59442607AD0B9.quest_desc: ["生成在&l末地外岛&r上"]
 	quest.3F0837CF53EDC699.quest_desc: ["使用&5&l重构机&r&r制得"]
 	quest.3F1C77F1F7A62AAC.quest_desc: ["将&e&l砂岩&r&r放在&0&l虚空&r&r维度中，它会受到虚空的侵染，转化为&0&l虚空砂岩&r&r"]
 	quest.3F59613C98FF78A1.quest_desc: ["使用&7&l原子再构机&r&r制得"]
@@ -421,16 +421,16 @@
 	quest.3FBDDBDD053EA6FE.quest_desc: ["用来种&2&l种子&r&r和&2&l作物&r&r不错"]
 	quest.3FC44FAA98E0C1A8.quest_desc: ["合成&c&l御腐破片&r&r获得"]
 	quest.416DB413A109C16C.quest_desc: ["&4&l营火&r&r可以把&7&l圆石&r&r烧成&7&l石头&r&r"]
-	quest.418613C121E2EA5C.quest_desc: ["Made inside the &lAssembler&r"]
+	quest.418613C121E2EA5C.quest_desc: ["在&l装配机&r中制成"]
 	quest.418F6CE3159E1019.quest_desc: ["&0&l虚空法杖&r&r支持128格内的&l传送&r，右击目标方块即可将你传送过去"]
 	quest.4193F2B5376B8AA7.quest_desc: ["&e&l金&r&r与&l银&r的合金"]
 	quest.42024C4DAC805D7E.quest_desc: ["用于制作&7&l燧石工具&r&r"]
 	quest.4209913428F5F428.quest_desc: ["使用&#8B4513&l搅拌机&r&r制得"]
-	quest.424D10D15BA636FA.quest_desc: ["Made inside the &lMaterial Infusing Chamber&r"]
+	quest.424D10D15BA636FA.quest_desc: ["使用&l材料熔合仓&r制得"]
 	quest.428A3130107930B9.quest_desc: ["可提升&#8B4513&l改良高炉&r&r的工作速率"]
 	quest.42A092A9A7A686C7.quest_desc: ["简易的&#9AC0CD&l桶&r&r，烧炼后才能作为&7&l桶&r&r使用"]
 	quest.42B9D4EEE31560F8.quest_desc: ["&7&l铁机械零件&r&r"]
-	quest.42BF7B2D2241E6D4.quest_desc: ["&9&lGloom Shrooms&r&r can be found in the &0&lDeep Dark&r&r. &d&lChorus Flowers&r&r can also be turned into &9&lGloom Shrooms&r&r"]
+	quest.42BF7B2D2241E6D4.quest_desc: ["&9&l阴郁菇&r&r生成于&0&l深暗之域&r&r生物群系中。&d&l紫颂花&r&r也可以转化为&9&l阴郁菇&r&r"]
 	quest.4358A298CABA59D8.quest_desc: ["[ \"挖掘\", { \"text\": \"铝矿石\", \"underlined\": true, \"color\": \"gray\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7961A2CF4801468B\" } }, \"掉落\"]"]
 	quest.43AD64CEB1ADCBC3.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.43AD64CEB1ADCBC3.title: "Desert Catalog"
@@ -511,7 +511,7 @@
 	quest.4CA96BE9655913FD.quest_desc: ["[ \"挖掘\", { \"text\": \"御腐矿石\", \"underlined\": true, \"color\": \"red\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"113A6412F5F0113D\" } }, \"掉落\"]"]
 	quest.4CC132E4FA1620DF.quest_desc: ["[ \"挖掘\", { \"text\": \"红色蛋白石矿石\", \"underlined\": true, \"color\": \"red\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4D9D0F0C2F41312D\" } }, \"掉落\"]"]
 	quest.4CE264175DE13357.quest_desc: ["使用&l重构机&r制得"]
-	quest.4CE64DFD725145AF.quest_desc: ["The &0&lDragon&r&r protects &lThe End&r"]
+	quest.4CE64DFD725145AF.quest_desc: ["&0&l末影龙&r&r守卫着&l末地&r"]
 	quest.4D2DDBDE4E24086B.quest_desc: ["&6&l青铜&r&r是一种&#FF681F&l铜&r&r&l锡&r合金，可在&#8B4513&l合金窑&r&r中制得"]
 	quest.4D9D0F0C2F41312D.quest_desc: [
 		"&l红色蛋白石矿石&r"
@@ -576,7 +576,7 @@
 	quest.541A22B4AE28E8A8.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.541A22B4AE28E8A8.title: "Survival"
 	quest.5439C36F9BDEA027.quest_desc: ["可用于长距离传输能量"]
-	quest.548B920EB3B941F6.quest_desc: ["Used to seperate resources from each other"]
+	quest.548B920EB3B941F6.quest_desc: ["用于分离材料"]
 	quest.54AE70099F87ED5F.quest_desc: ["用于定位&2&l孔雀石瞭望塔&r&r"]
 	quest.54BB9D8D5916EB6E.quest_desc: [
 		"&l镍矿石&r"
@@ -587,9 +587,9 @@
 	]
 	quest.54C066B2880134B5.quest_desc: ["子弹的外壳"]
 	quest.54C64C0F22FD7BA0.quest_desc: ["&5&l盖亚维度&r&r中充满了&5&l盖亚石&r&r，采集之后会变成圆石，烧炼圆石即可获得"]
-	quest.5510782EBAC13C9C.quest_desc: ["&lPolymer Bars&r can be melted into &lMolten End Stone&r"]
+	quest.5510782EBAC13C9C.quest_desc: ["&l聚合物条&r可以熔化成&l熔融末地石&r"]
 	quest.5668C2E4CEF8652D.quest_desc: ["可改变某些材料的原子结构"]
-	quest.56F38D74DEFB615E.quest_desc: ["使用&l研磨机&r制得"]
+	quest.56F38D74DEFB615E.quest_desc: ["使用&l粉碎机&r制得"]
 	quest.57402B188353AC5C.quest_desc: ["用&#8B4513&l木剪刀&r&r破坏&2&l树叶&r&r会掉落树叶方块"]
 	quest.57402B188353AC5C.title: "树叶"
 	quest.57E4AFCA263E9DEE.quest_desc: ["这里挺吓人的"]
@@ -598,7 +598,7 @@
 	quest.58B2EEE6081ED549.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.58B2EEE6081ED549.title: "Caves Catalog"
 	quest.595ADD9C9DEF94A7.quest_desc: [
-		"Well thats it for 1.21.1. I hope you enjoyed all the packs as much as I liked making them. Whilst 26.1.2 mods and packs are in development check out some other packs from 1.21.1;"
+		"好的这就是这个1.21.1的包的全部内容了。希望你喜欢玩这些整合包，我也喜欢制作它们。26.1.2版本的模组和整合包还在开发中，先看看下面这些1.21.1的包吧："
 		""
 		"&lSumerged 2&r"
 		"&lTechopolis 3&r"
@@ -624,7 +624,7 @@
 		"详情请参阅&l沉浸工程手册&r的&l矿物矿床&r章节"
 	]
 	quest.5BCF20C94A0AB809.quest_desc: ["&#8B4513&l干燥台&r&r用于&6&l干燥&r&r物品。&9&l加水&r&r之后可以变成&9&l浸泡台&r&r"]
-	quest.5C263083BCC6D015.quest_desc: ["Used to make &3&lPrinted Engineering Circuit&r&r"]
+	quest.5C263083BCC6D015.quest_desc: ["用于制造&3&l工程电路板&r&r"]
 	quest.5C931F0A17642D0D.quest_desc: ["便携传送门。支持快速跨维度传送"]
 	quest.5CE6EEC974E07F64.quest_desc: ["可照明大片区域。适合用来点亮你基地下面的洞穴！"]
 	quest.5CFA5014092DF032.quest_desc: ["用于制作&7&l燧石工具&r&r"]
@@ -649,7 +649,7 @@
 	quest.6284C12EBDFC08B8.quest_desc: ["&0&l下僻巢穴&r&r中能找到的第一种&2&l遗忆模板&r&r。巢穴中的土堆下面可能埋着箱子"]
 	quest.629BFD0436EC491B.quest_desc: ["&#8B4513&l合金窑&r&r可以制造合金。8块&#8B4513&l窑砖&r&r搭成2x2x2，然后用&#8B4513&l锤子&r&r点击即可制成多方块结构"]
 	quest.629BFD0436EC491B.quest_subtitle: "用放置器搭建会更方便些……"
-	quest.62C12A869CD6D94A.quest_desc: ["Spawns after killing the &0&lEnder Dragon&r&r"]
+	quest.62C12A869CD6D94A.quest_desc: ["击杀&0&l末影龙&r&r后生成"]
 	quest.62CBCEEA70E792A5.quest_desc: ["[ \"挖掘\", { \"text\": \"灼热矿石\", \"bold\": true, \"color\": \"red\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D9C19B2677B34EE\" } }, \"掉落\"]"]
 	quest.62DE41B4D9F07102.quest_desc: ["用于制造&l电路板&r"]
 	quest.62FFBF777A339BC7.quest_desc: ["另一种板子"]
@@ -660,14 +660,14 @@
 		""
 		"&2&l树苗&r&r可合成&#8B4513&l木棍&r&r"
 	]
-	quest.63C4C884F5F3CBF1.quest_desc: ["Fuses materials together"]
+	quest.63C4C884F5F3CBF1.quest_desc: ["熔合材料"]
 	quest.6421EB1686AA3752.quest_desc: ["可使用&l模板&r制作物品"]
 	quest.642735C042F81AE5.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
 	quest.643F9F032A3E0B7A.quest_desc: ["随着游戏时间和游戏进度的推进，怪物会变得越来越强大！"]
 	quest.657377D0ADF42020.quest_desc: ["合成&0&l焦黑砖&r&r获得"]
 	quest.6583E46B220FB4CE.quest_desc: ["使用&#8B4513&l灌装机&r&r制得"]
 	quest.65FE7211D55B6B20.quest_desc: ["&0&l蒸馏塔&r&r的副产物"]
-	quest.6626446279F6CC45.quest_desc: ["You did it you made it back to the Overworld... did you?"]
+	quest.6626446279F6CC45.quest_desc: ["你做到了你回到了主世界……真回到了吗？"]
 	quest.6641774660A1537C.quest_desc: ["由&l熔融玻璃&r制得"]
 	quest.666178BDBA540E78.quest_desc: ["&#8B4513&l砧板&r&r可用于切割物品。将要切割的物品放在砧板上，然后用所需工具切割即可"]
 	quest.6696AAEEFC4F5779.quest_desc: ["一块宝石"]
@@ -706,7 +706,7 @@
 		""
 		"将&#8B4513&l泥土&r&r放在&#8B4513&l砧板&r&r上，用&l锹&r敲打，有一定几率会掉落&7&l黏土球&r&r"
 	]
-	quest.6D5211FC325ACDC0.quest_desc: ["Can be used to create the &lCalculation Press&r"]
+	quest.6D5211FC325ACDC0.quest_desc: ["用于制造&l运算压印模板&r"]
 	quest.6D9AAECB7861D126.quest_desc: ["&#8B4513&l工业挤压机&r&r可以挤压物品"]
 	quest.6D9AAECB7861D126.quest_subtitle: "用放置器搭建会更方便些……"
 	quest.6DE049C47027762E.quest_desc: ["可复制某些资源，例如&7&l圆石&r&r和&7&l石头&r&r"]
@@ -715,7 +715,7 @@
 	quest.6E1CDA29E7EC877A.quest_desc: ["用于搭建&l柴油发电机&r"]
 	quest.6E81375E7BD9D6F0.quest_desc: ["使用&5&l重构机&r&r制得。只有&b&l纯赛特斯石英&r&r才能重构出水晶"]
 	quest.6E9C51590F835C59.quest_desc: ["&0&l电弧炉&r&r需要电极才能工作"]
-	quest.6EB8182F2A6B326D.quest_desc: ["If there is no &0&lEnder Dragon&r&r on the &lMain Island&r then you will have to summon it. Using 4 &lEnder Crystals&r on the Exit Portal  will re summon the &0&lEnder Dragon&r&r"]
+	quest.6EB8182F2A6B326D.quest_desc: ["如果&l主岛&r上没有&0&l末影龙&r&r，那就需要你自己召唤一条了。将4个&l末地水晶&r摆在离开末地的传送门上，即可再次召唤&0&l末影龙&r&r"]
 	quest.6EC709AAB3032ECC.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
 	quest.6ED3B0B52BCCB811.quest_desc: ["时间与传送"]
 	quest.6F6ABB1CA79EA0BA.quest_desc: ["在&l&#8B4513耕地&r&r上种植&#8B4513&l工业大麻种子&r&r可以获得&#8B4513&l工业大麻纤维&r&r"]
@@ -725,7 +725,7 @@
 	quest.6FCB2DC5E6854E40.quest_desc: ["[ \"挖掘\", { \"text\": \"煤矿石\", \"underlined\": true, \"color\": \"black\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52246C0846D49379\" } }, \"掉落\"]"]
 	quest.70338BD83235F87A.quest_desc: ["简易的挖掘工具"]
 	quest.708E6E9F9B1CF4D4.quest_desc: ["这个特别的方块可将&7&l石头&r&r之类的方块转化为矿石"]
-	quest.70C4A083017D917E.quest_desc: ["Made inside the &lElectroCentrifuge&r"]
+	quest.70C4A083017D917E.quest_desc: ["使用&l电解离心机&r制得"]
 	quest.70EE32C3CD61C180.quest_desc: [
 		"&l金矿石&r"
 		""
@@ -751,7 +751,7 @@
 	]
 	quest.7336AB92DD4B6785.title: "红石矿石"
 	quest.73669C0F69532271.quest_desc: ["一块&e&l黄铁矿&r&r"]
-	quest.73907FD573EDC3F1.quest_desc: ["Used to light the &lEnd Portal&r"]
+	quest.73907FD573EDC3F1.quest_desc: ["用于点亮&l末地传送门&r"]
 	quest.743FA61E24C26BBB.quest_desc: ["使用&0&l简易混合器&r&r制得"]
 	quest.7446C09CFFFCE2A4.quest_desc: ["用&l深园催化石&r点击&#8B4513&l处理过的石砖&r&r框架即可打开新维度的大门"]
 	quest.74B062AAB31C90BA.quest_desc: ["可点亮&4&l营火&r&r"]
@@ -761,7 +761,7 @@
 		"&l维度&r：末地"
 		"&l生物群系&r：全部"
 	]
-	quest.74BED752755FFDCB.quest_desc: ["Made inside the &lFabricator&r"]
+	quest.74BED752755FFDCB.quest_desc: ["在&l组装器&r中制成"]
 	quest.74E06C8F351CE970.quest_desc: ["烤过的&e&l面团&r&r"]
 	quest.74F2FA103751F198.quest_desc: ["可灌装瓶/桶之类的物品"]
 	quest.74F2FA103751F198.quest_subtitle: "用放置器搭建会更方便些……"
@@ -782,8 +782,8 @@
 	quest.77265536786564DA.quest_desc: ["需要2种能源。左上方的格子放入&l闪光物品&r，比如&5&l甜泥球&r&r；右上方的格子放入&l闪耀物品&r，比如&5&l粉红精华&r&r"]
 	quest.77623C41F3DFABF5.quest_desc: ["&0&l储油罐&r&r是一个非常大的储罐，用于存储&0&l油&r&r"]
 	quest.77623C41F3DFABF5.quest_subtitle: "用放置器搭建会更方便些……"
-	quest.7775064177496889.quest_desc: ["Made inside the &lElectroCentrifuge&r"]
-	quest.7778A6C3645571EF.quest_desc: ["Almost home time"]
+	quest.7775064177496889.quest_desc: ["使用&l电解离心机&r制得"]
+	quest.7778A6C3645571EF.quest_desc: ["快到家了"]
 	quest.77F8C899886003CB.quest_desc: ["用于远距离连接&#8B4513&l存储连接器&r&r"]
 	quest.77FCD77B49E671AD.quest_desc: [
 		"&l赛特斯石英矿石&r"
@@ -792,7 +792,7 @@
 		"&l维度&r：下界"
 		"&l生物群系&r：全部"
 	]
-	quest.7861808BCEC1C690.quest_desc: ["Crafted from &lTitanium Nuggets&r"]
+	quest.7861808BCEC1C690.quest_desc: ["合成&l钛粒&r获得"]
 	quest.78B20F0D0BE9859B.quest_desc: ["用于制造&#8B4513&l扼塞&r&r&l工具&r和&l盔甲&r"]
 	quest.795B4DD4B6C94430.quest_desc: ["用于更多多方块结构"]
 	quest.795FD1CC9CE8998A.quest_desc: ["&l玻璃罩&r可用来种植&2&l种子&r&r、&2&l作物&r&r和&2&l树苗&r&r"]
@@ -829,7 +829,7 @@
 	quest.7D0D91030551D09E.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
 	quest.7D0D91030551D09E.title: "Nether Catalog"
 	quest.7D23614782D02371.quest_desc: ["连接你想输入/输出RF的方块"]
-	quest.7D4AD5DAC52ED6A4.quest_desc: ["Can be used to create the &lControl Press&r"]
+	quest.7D4AD5DAC52ED6A4.quest_desc: ["用于制造&l控制压印模板&r"]
 	quest.7D5EDF58B982A037.quest_desc: ["将&7&l动能发电机&r&r放在高处，装上&#8B4513&l风车&r&r，即可生产RF"]
 	quest.7DA06A5FF2125AFF.quest_desc: [
 		"&l锡矿石&r"
@@ -839,13 +839,13 @@
 		"&l生物群系&r：全部"
 	]
 	quest.7DAF88FC37E37779.quest_desc: ["用于点亮&5&l下界&r&r传送门"]
-	quest.7DD6625A79C23089.quest_desc: ["Used to make &b&lPrinted Calculation Circuit&r&r"]
+	quest.7DD6625A79C23089.quest_desc: ["用于制造&b&l运算电路板&r&r"]
 	quest.7DDD3FB8B7A1644D.quest_desc: ["使用&7&l原子再构机&r&r制得"]
 	quest.7DF17CC8CA995685.quest_desc: ["合成&l残渣&r获得"]
-	quest.7E85F08E7F6C04E1.quest_desc: ["The final portal"]
+	quest.7E85F08E7F6C04E1.quest_desc: ["最终的传送门"]
 	quest.7EC9EE5BE91C7CC5.quest_desc: ["碎裂的&0&l虚空块&r&r"]
 	quest.7F442D12939B6F22.quest_desc: ["简易的电线。可连接到继电器和接线器，输送RF"]
-	quest.7F526021085689F0.quest_desc: ["[ \"Drops from \", { \"text\": \"Niobium Ore\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"74B90EAE37174516\" } } ]"]
+	quest.7F526021085689F0.quest_desc: ["[ \"挖掘\", { \"text\": \"铌矿石\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"74B90EAE37174516\" } }, \"掉落\"]"]
 	quest.7F9344ED4C1BF2C6.quest_desc: ["[ \"挖掘\", { \"text\": \"赛特斯石英矿石\", \"underlined\": true, \"color\": \"blue\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"77FCD77B49E671AD\" } }, \"掉落\"]"]
 	quest.7FA5C1B532BC2D51.quest_desc: ["让&0&l固化器&r&r和&#8B4513&l金属冲压机&r&r制造&e&l空弹壳&r&r"]
 	reward_table.592DDE89E23DB2BF.title: "树苗"
@@ -865,7 +865,7 @@
 	task.10C20F1AA88C95C2.title: "任意#c:player_workstations/crafting_tables"
 	task.1119B5090688F959.title: "任意#minecraft:leaves"
 	task.128AE77AABFAEF02.title: "灼热矿石"
-	task.1442ECBCED3FB755.title: "Home Sweet Home"
+	task.1442ECBCED3FB755.title: "甜蜜的家"
 	task.1582E02E386EC99A.title: "铝"
 	task.199C02FAB99E142C.title: "凝固汽油"
 	task.1A506D1233C28998.title: "绿色蛋白石矿石"
@@ -911,7 +911,7 @@
 	task.4B93C2588B245842.title: "银矿石"
 	task.4C35BD3AC05BA8D2.title: "汽油"
 	task.4CC0A4649FB623E1.title: "远古残骸"
-	task.4D9032B5EAD2DA7E.title: "Oxygen"
+	task.4D9032B5EAD2DA7E.title: "氧气"
 	task.4D932C4E5E27E744.title: "精炼厂"
 	task.4E2B6822F28715C8.title: "紫水晶"
 	task.5079B0C4E7352CED.title: "霜钢矿石"
@@ -922,7 +922,7 @@
 	task.578EA439B83D9E63.title: "粉碎机"
 	task.59FB2E53375A2355.title: "Survial Catalog"
 	task.5C981663B2FC9F66.title: "任意#functionalstorage:fluid_drawer"
-	task.5E81626714605BBF.title: "The End"
+	task.5E81626714605BBF.title: "末地"
 	task.5EB854EC740929A2.title: "井架"
 	task.602F5222F0246EAF.title: "自动装配台"
 	task.62206090F5594825.title: "末地"
