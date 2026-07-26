@@ -1,37 +1,37 @@
 {
 
-  "itemGroup.shops": "BBL Shops",
-  "item.shops.copper_coin": "Copper Coin",
-  "item.shops.iron_coin": "Iron Coin",
-  "item.shops.gold_coin": "Gold Coin",
-  "item.shops.player_balance_card": "Player Balance Card",
+  "itemGroup.shops": "BBL商店",
+  "item.shops.copper_coin": "铜币",
+  "item.shops.iron_coin": "铁币",
+  "item.shops.gold_coin": "金币",
+  "item.shops.player_balance_card": "玩家余额卡",
   "item.shops.pinata_flare": "Pinata Flare",
   "item.shops.crate_flare": "Crate Flare",
 
   "item.shops.pinata_flare.mineshaft": "Pinata Type: Mineshaft",
 
-  "block.shops.shop": "Shop",
-  "tooltip.shops.balance": "Balance: %s B Bucks",
-  "tooltip.shops.shift": "Press SHIFT for more info",
-  "tooltip.shops.bound_to": "This card is bound to %s",
-  "tooltip.shops.how_to": "Right Click to bound to your account",
-  "tooltip.shops.value": "Worth %s B Bucks",
+  "block.shops.shop": "商店",
+  "tooltip.shops.balance": "余额：%sB币",
+  "tooltip.shops.shift": "按住SHIFT查看更多信息",
+  "tooltip.shops.bound_to": "这张卡已绑定至%s",
+  "tooltip.shops.how_to": "右击绑定你的账号",
+  "tooltip.shops.value": "价值%sB币",
 
-  "jei.shops.selling_price": "Sells for: %s B Bucks",
-  "jei.shops.buying_price": "Buys for: %s B Bucks",
-  "jei.shops.selling": "Player Sells",
-  "jei.shops.buying": "Player Buys",
+  "jei.shops.selling_price": "出售价格：%sB币",
+  "jei.shops.buying_price": "购买价格：%sB币",
+  "jei.shops.selling": "玩家出售",
+  "jei.shops.buying": "玩家购买",
 
-  "block.shops.shop.player_balance_card": "Insert Player Balance Card",
+  "block.shops.shop.player_balance_card": "插入玩家余额卡",
   "block.shops.shop.selling_input": "Selling Input",
-  "block.shops.shop.catalog": "Insert Catalog",
-  "block.shops.shop.output": "Shop Output",
-  "block.shops.shop.auto_produce": "Right Click on an item in the shop to set as the item that is auto purchased",
+  "block.shops.shop.catalog": "插入目录",
+  "block.shops.shop.output": "商店输出",
+  "block.shops.shop.auto_produce": "右击商店中的物品将其设为自动购买",
 
-  "entity.shops.pinata_interact": "Please don't hit me! I swear I'm Empty!",
-  "entity.shops.pinata_hit": "I need some sort of stick or rod to break this open!",
+  "entity.shops.pinata_interact": "别打我！我发誓我是空的！",
+  "entity.shops.pinata_hit": "我需要一些棍子之类的东西来撬开它！",
   "entity.shops.pinata": "Pinata",
-  "entity.shops.crate": "Crate",
+  "entity.shops.crate": "板条箱",
 
-  "sounds.shops.coin_collected": "Coin Collected"
+  "sounds.shops.coin_collected": "硬币收集"
 }

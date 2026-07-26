@@ -1,19 +1,19 @@
 {
-  "item.sortingstick.sorting_stick": "Sorting Stick",
-  "item.sortingstick.sorting_stick.tooltip": "Right-click to merge and sort all nearby chests (breaks upon use)",
-  "item.sortingstick.sorting_stick.tooltip.detail": "Range: %s blocks",
+  "item.sortingstick.sorting_stick": "整理棍",
+  "item.sortingstick.sorting_stick.tooltip": "右击合并整理周围的所有箱子（只能使用一次）",
+  "item.sortingstick.sorting_stick.tooltip.detail": "范围：%s格",
 
-  "item.sortingstick.sorting_stick.message.already_sorted": "Everything is already in order.",
-  "item.sortingstick.sorting_stick.message.no_room": "Could not sort - there is no room in any nearby chest.",
-  "item.sortingstick.sorting_stick.message.partial_failure": "Sorted what could fit. The following items had no valid destination:",
+  "item.sortingstick.sorting_stick.message.already_sorted": "所有东西都已经整理好了。",
+  "item.sortingstick.sorting_stick.message.no_room": "无法分类 - 周围的箱子空间不足。",
+  "item.sortingstick.sorting_stick.message.partial_failure": "已尽可能地进行整理。下列物品没有位置放了：",
   "item.sortingstick.sorting_stick.message.failed_item": "  \u2022 %s \u00d7%s - stuck in chest at %s",
 
-  "item.sortingstick.iron_sorting_stick": "Iron Sorting Stick",
-  "item.sortingstick.iron_sorting_stick.tooltip": "Right-click to merge and sort nearby chests",
-  "item.sortingstick.iron_sorting_stick.tooltip.detail": "Range: %s blocks",
+  "item.sortingstick.iron_sorting_stick": "铁整理棍",
+  "item.sortingstick.iron_sorting_stick.tooltip": "右击合并整理周围的所有箱子",
+  "item.sortingstick.iron_sorting_stick.tooltip.detail": "范围：%s格",
 
-  "itemGroup.sortingstick.tab": "Sorting Stick",
+  "itemGroup.sortingstick.tab": "整理棍",
 
-  "block.sortingstick.dumping_chest": "Dumping Chest",
-  "item.sortingstick.dumping_chest.tooltip": "The Sorting Stick will move items out of this chest, but never into it."
+  "block.sortingstick.dumping_chest": "倾倒箱",
+  "item.sortingstick.dumping_chest.tooltip": "整理棍会将物品移出该箱子，但不会移入。"
 }

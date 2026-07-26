@@ -10,10 +10,10 @@
 	chapter.5E3A4D55C55E37AA.title: "烫烫烫"
 	chapter.62CFC2C9EDF463BD.title: "虚空"
 	chapter.67C945A97AA0C93E.title: "矿物词典"
-	chapter.70536BC0A99471E1.title: "Shop"
-	chapter_group.0E4E38F11DAB1F87.title: "Shop"
-	chapter_group.4C6CA59E34F8B51F.title: "Fractured"
-	chapter_group.71448CACEFEA03D3.title: "Information"
+	chapter.70536BC0A99471E1.title: "商店"
+	chapter_group.0E4E38F11DAB1F87.title: "商店"
+	chapter_group.4C6CA59E34F8B51F.title: "破碎城"
+	chapter_group.71448CACEFEA03D3.title: "信息"
 	file.0000000000000001.title: "破碎城"
 	quest.00012C8C1EC7B6DA.quest_desc: ["[ \"挖掘\", { \"text\": \"绿色蛋白石矿石\", \"underlined\": true, \"color\": \"green\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"486A68FCF7F4E791\" } }, \"掉落\"]"]
 	quest.00B2C447F5E3DF91.quest_desc: ["混合流体，制成&l合金&r或新的&l流体&r"]
@@ -44,8 +44,8 @@
 	quest.06E82AD5B86D8A7F.quest_desc: ["这个&l搅拌机&r相当于一个迷你版多方块&0&l搅拌机&r&r"]
 	quest.072E309B1EAC0618.quest_desc: ["在&0&l固化器&r&r中将&7&l熔融石头&r&r注入&0&l镐头铸模&r&r即可获得"]
 	quest.07652DF92EF47EEA.quest_desc: ["&2&l电浆果&r&r生长在&l主世界&r的丛林群系中。&c&l下界疣&r&r被&e&l闪电&r&r击中也可以变成&2&l电浆果&r&r"]
-	quest.076F6B7D18BA5598.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.076F6B7D18BA5598.title: "Undergarden Catalog"
+	quest.076F6B7D18BA5598.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.076F6B7D18BA5598.title: "深暗之园目录"
 	quest.07CC92C56487C17A.quest_desc: [
 		"&l铀矿石&r"
 		""
@@ -224,7 +224,7 @@
 		"&l维度&r：主世界"
 		"&l生物群系&r：全部"
 	]
-	quest.203A4E27F749C562.quest_desc: ["The &lShop&r allows you to B&luy&r and &lSell&r items. The &lShop&r requires a &lCatalog&r to use "]
+	quest.203A4E27F749C562.quest_desc: ["你可以在&l商店&r中&l购买&r与&l出售&r物品。需要有&l目录&r才能使用&l商店&r"]
 	quest.204DBF02939A76C5.quest_desc: ["&2孔雀石守卫&r的掉落物"]
 	quest.20801D06242FCD04.quest_desc: ["使用&l粉碎机&r制得"]
 	quest.20E9A18E3608162F.quest_desc: ["由&4&l下界砖&r&r和&4&l岩浆块&r&r制成"]
@@ -389,7 +389,7 @@
 	]
 	quest.393A1B2FDCBB1888.quest_desc: ["简易的&#8B4513&l木剪刀&r&r，可破坏&2&l树叶&r&r和&2&l草&r&r"]
 	quest.399DA5D0089CA58C.quest_desc: ["这是第一步……现在你可以制造&7&l机械零件&r&r了"]
-	quest.39FE25094F4E6455.quest_desc: ["Shift right click to bind to you. After doing that add to the &lShop&r to automate &lBuying&r and &lSelling&r of items"]
+	quest.39FE25094F4E6455.quest_desc: ["Shift右击将它与你绑定。然后即可将它放入&l商店&r，自动&l购买&r与&l出售&r物品了"]
 	quest.3A23A0E025F92399.quest_desc: ["粉碎&7&l铝&r&r获得"]
 	quest.3AA74BF539A3C21B.quest_desc: ["使用&l高压精炼装置&r制得"]
 	quest.3AA80E55D058794B.quest_desc: ["烧炼&5&l粘闪光块&r&r获得"]
@@ -410,8 +410,8 @@
 	quest.3E056026D0B86829.quest_desc: ["使用&0&l金属冲压机&r&r制得"]
 	quest.3E7AA207262A2655.quest_desc: ["挖掘&l矿工透镜&r转化出的矿石获得"]
 	quest.3E86538DC1DD213A.quest_desc: ["&0&l末影电池&r&r可以相互连接到一起。你可以用染料来配置它们。使用&a&l遗忆粒&r&r可将&0&l末影电池&r&r设为私人所有"]
-	quest.3ECD5E8BA2A00743.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.3ECD5E8BA2A00743.title: "Void Catalog"
+	quest.3ECD5E8BA2A00743.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.3ECD5E8BA2A00743.title: "虚空目录"
 	quest.3EF59442607AD0B9.quest_desc: ["生成在&l末地外岛&r上"]
 	quest.3F0837CF53EDC699.quest_desc: ["使用&5&l重构机&r&r制得"]
 	quest.3F1C77F1F7A62AAC.quest_desc: ["将&e&l砂岩&r&r放在&0&l虚空&r&r维度中，它会受到虚空的侵染，转化为&0&l虚空砂岩&r&r"]
@@ -432,8 +432,8 @@
 	quest.42B9D4EEE31560F8.quest_desc: ["&7&l铁机械零件&r&r"]
 	quest.42BF7B2D2241E6D4.quest_desc: ["&9&l阴郁菇&r&r生成于&0&l深暗之域&r&r生物群系中。&d&l紫颂花&r&r也可以转化为&9&l阴郁菇&r&r"]
 	quest.4358A298CABA59D8.quest_desc: ["[ \"挖掘\", { \"text\": \"铝矿石\", \"underlined\": true, \"color\": \"gray\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7961A2CF4801468B\" } }, \"掉落\"]"]
-	quest.43AD64CEB1ADCBC3.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.43AD64CEB1ADCBC3.title: "Desert Catalog"
+	quest.43AD64CEB1ADCBC3.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.43AD64CEB1ADCBC3.title: "沙漠目录"
 	quest.43B64241B16B0261.quest_desc: ["让&0&l固化器&r&r制造&l镐头&r"]
 	quest.43FC0823243133AC.quest_desc: ["大部分生物群系中都可以找到&7&l石块&r&r"]
 	quest.442D87AC4B7041CB.quest_desc: [
@@ -457,8 +457,8 @@
 	]
 	quest.44AD52EF3C740231.quest_desc: ["大部分&l电路板&r的基底"]
 	quest.44C2DDF2A0528F11.quest_desc: ["使用&5&l重构机&r&r制得"]
-	quest.44CD95E24CD8BF48.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.44CD95E24CD8BF48.title: "Gaia Catalog"
+	quest.44CD95E24CD8BF48.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.44CD95E24CD8BF48.title: "盖亚目录"
 	quest.44DA923F27F905E9.quest_desc: ["挖矿好用"]
 	quest.44EDE021C512D153.quest_desc: ["合成&6&l烈焰棒&r&r获得"]
 	quest.45669B659283B60E.quest_desc: ["最好的电线"]
@@ -573,8 +573,8 @@
 	]
 	quest.53B955CB408CDA10.title: "蒸馏塔"
 	quest.53F38F1BC9168D03.quest_desc: ["用&0&l震波探测器&r&r在&6&l破碎沙漠&r&r中找到的"]
-	quest.541A22B4AE28E8A8.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.541A22B4AE28E8A8.title: "Survival"
+	quest.541A22B4AE28E8A8.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.541A22B4AE28E8A8.title: "生存"
 	quest.5439C36F9BDEA027.quest_desc: ["可用于长距离传输能量"]
 	quest.548B920EB3B941F6.quest_desc: ["用于分离材料"]
 	quest.54AE70099F87ED5F.quest_desc: ["用于定位&2&l孔雀石瞭望塔&r&r"]
@@ -595,19 +595,19 @@
 	quest.57E4AFCA263E9DEE.quest_desc: ["这里挺吓人的"]
 	quest.5827207280572149.quest_desc: ["像&#8B4513&l陶碗&r&r一样，你也可以通过烧炼来纯化&1&l水瓶&r&r里的水。&1&l浸泡台&r&r也可以给&l玻璃瓶&r装&1&l水&r&r"]
 	quest.58A907E969E4539F.quest_desc: ["烧炼&7&l砖泥粉&r&r获得"]
-	quest.58B2EEE6081ED549.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.58B2EEE6081ED549.title: "Caves Catalog"
+	quest.58B2EEE6081ED549.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.58B2EEE6081ED549.title: "洞穴目录"
 	quest.595ADD9C9DEF94A7.quest_desc: [
 		"好的这就是这个1.21.1的包的全部内容了。希望你喜欢玩这些整合包，我也喜欢制作它们。26.1.2版本的模组和整合包还在开发中，先看看下面这些1.21.1的包吧："
 		""
 		"&lSumerged 2&r"
-		"&lTechopolis 3&r"
+		"&l科技城3&r"
 		"&lContained&r"
 		"&lFarmopolis&r"
 		"&lOpolis Inc&r"
 		"&lSkyopolis Evolved&r"
 		""
-		"Itching for something brand new? Check out &lOpolis Plus&r and &lOpolis 26&r"
+		"想玩点新鲜的？看看&lOpolis Plus&r和&lOpolis 26&r吧"
 	]
 	quest.5983FD16ABAAFDEE.quest_desc: ["让&0&l固化器&r&r制造&l板&r"]
 	quest.59A14B1EA1C95B05.quest_desc: ["世界各地都能找到&4&l熔岩&r&r，但洞穴里更常见"]
@@ -809,8 +809,8 @@
 	quest.79652BA2842C801B.quest_desc: ["使用&0&l固化器&r&r制得"]
 	quest.7969C7AEE7DA646F.quest_desc: ["可使用你的物品栏或相邻容器中的物品进行合成！"]
 	quest.79B6EE2999A6FA80.quest_desc: ["用&l剪线钳&r制得"]
-	quest.79F94400901690C7.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.79F94400901690C7.title: "Hot Hot Hot Catalog"
+	quest.79F94400901690C7.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.79F94400901690C7.title: "烫烫烫目录"
 	quest.7A174DC6026D31CD.quest_desc: ["&l&0凋灵骷髅&r&r的掉落物。&l斩首&r强化对此很有用"]
 	quest.7A3425385A3BD05D.quest_desc: ["砍树采集&#8B4513&l原木&r&r的简易工具"]
 	quest.7A73FA318B1F6C16.quest_desc: ["在哪里可以找到这些矿物？"]
@@ -822,12 +822,12 @@
 	quest.7C0FB00BF8E36170.quest_desc: ["你可以将&0&l含杂煤炭&r&r放入&7&l焦炉&r&r。一次至多处理16个"]
 	quest.7C3E713435B5B55D.quest_desc: ["在&#8B4513&l工程师装配台&r&r上制成"]
 	quest.7C5AF877EE13E99B.quest_desc: ["它可以访问所有与之相连的容器！"]
-	quest.7C93ED78F3CA4090.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.7C93ED78F3CA4090.title: "End Catalog"
+	quest.7C93ED78F3CA4090.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.7C93ED78F3CA4090.title: "末地目录"
 	quest.7C9C63FEAEFB21A3.quest_desc: ["&7&l钢&r&r制成的板子"]
 	quest.7CB849679C2D9D0A.quest_desc: ["用于点亮&l&z彩色洞穴传送门&r&r"]
-	quest.7D0D91030551D09E.quest_desc: ["Allows you to &lBuy&r and &lSell&r some items in the &lShop&r"]
-	quest.7D0D91030551D09E.title: "Nether Catalog"
+	quest.7D0D91030551D09E.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
+	quest.7D0D91030551D09E.title: "下界目录"
 	quest.7D23614782D02371.quest_desc: ["连接你想输入/输出RF的方块"]
 	quest.7D4AD5DAC52ED6A4.quest_desc: ["用于制造&l控制压印模板&r"]
 	quest.7D5EDF58B982A037.quest_desc: ["将&7&l动能发电机&r&r放在高处，装上&#8B4513&l风车&r&r，即可生产RF"]
@@ -920,7 +920,7 @@
 	task.54B9E7076B51BD2B.title: "焦炭塔"
 	task.5592F0869569DBAA.title: "红石酸"
 	task.578EA439B83D9E63.title: "粉碎机"
-	task.59FB2E53375A2355.title: "Survial Catalog"
+	task.59FB2E53375A2355.title: "生存目录"
 	task.5C981663B2FC9F66.title: "任意#functionalstorage:fluid_drawer"
 	task.5E81626714605BBF.title: "末地"
 	task.5EB854EC740929A2.title: "井架"
