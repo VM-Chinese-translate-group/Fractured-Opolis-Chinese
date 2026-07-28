@@ -18,7 +18,7 @@
 	quest.00012C8C1EC7B6DA.quest_desc: ["[ \"挖掘\", { \"text\": \"绿色蛋白石矿石\", \"underlined\": true, \"color\": \"green\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"486A68FCF7F4E791\" } }, \"掉落\"]"]
 	quest.00B2C447F5E3DF91.quest_desc: ["混合流体，制成&l合金&r或新的&l流体&r"]
 	quest.0158E7C6C7E8A767.quest_desc: ["粉碎&0&l石油焦&r&r获得"]
-	quest.018B06C1A5F159DC.quest_desc: ["穿戴整套&7&l法拉第盔甲&r&r，站在多方块&e&l避雷针&r&r的顶端，使用此物品会使得你被&e&l闪电&r&r击中"]
+	quest.018B06C1A5F159DC.quest_desc: ["穿戴整套&7&l法拉第盔甲&r&r，站在多方块&e&l避雷针&r&r的顶端，然后使用此物品，会召唤一道&e&l闪电&r&r击中你"]
 	quest.01B652F94D801583.quest_desc: ["使用&l搅拌机&r制得"]
 	quest.01C3824E489E75D7.quest_desc: ["使用&l粉碎机&r制得"]
 	quest.01DAEA4A48B7BB4B.quest_desc: ["[ \"挖掘\", { \"text\": \"钛矿石\", \"underlined\": true, \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"377B5CB9B8F6562E\" } }, \"掉落\"]"]
@@ -172,7 +172,7 @@
 	quest.17E6CA0559A2075A.quest_desc: [
 		"&l铁矿石&r"
 		""
-		"&lIndication&r: N/A Found using Core Sample Drill"
+		"&l指示&r：岩芯钻井未找到任何矿物"
 		"&l维度&r：暗色洞穴"
 		"&l生物群系&r：全部"
 		""
@@ -683,7 +683,7 @@
 	quest.6946557AF66020B3.quest_desc: ["使用&#8B4513&l灌装机&r&r制得"]
 	quest.6970AE453BBEF764.quest_desc: ["使用&5&l重构机&r&r制得"]
 	quest.699D83C8355A2512.quest_desc: [
-		"游戏中的许多功能是受限的，你可以通过技能来提升玩家的某些属性和数值"
+		"游戏中的许多功能是受限的，你可以通过技能来提升玩家的某些属性和数值等等"
 		""
 		"[\"按\", {\"keybind\": \"key.puffish_skills.open\", \"color\": \"aqua\", \"bold\": true }, \"打开技能界面\"]"
 	]
@@ -743,7 +743,7 @@
 	quest.7336AB92DD4B6785.quest_desc: [
 		"&l红石矿石&r"
 		""
-		"&lIndication&r: N/A Found using Core Sample Drill"
+		"&l指示&r：岩芯钻井未找到任何矿物"
 		"&l维度&r：亮色洞穴"
 		"&l生物群系&r：全部"
 		""
@@ -799,7 +799,7 @@
 	quest.7961A2CF4801468B.quest_desc: [
 		"&l铝矿石&r"
 		""
-		"&lIndication&r: N/A Found using Core Sample Drill"
+		"&l指示&r：岩芯钻井未找到任何矿物"
 		"&l维度&r：亮色洞穴和暗色洞穴"
 		"&l生物群系&r：全部"
 		""

@@ -5,10 +5,10 @@
   "item.shops.iron_coin": "铁币",
   "item.shops.gold_coin": "金币",
   "item.shops.player_balance_card": "玩家余额卡",
-  "item.shops.pinata_flare": "Pinata Flare",
-  "item.shops.crate_flare": "Crate Flare",
+  "item.shops.pinata_flare": "",
+  "item.shops.crate_flare": "",
 
-  "item.shops.pinata_flare.mineshaft": "Pinata Type: Mineshaft",
+  "item.shops.pinata_flare.mineshaft": "",
 
   "block.shops.shop": "商店",
   "tooltip.shops.balance": "余额：%sB币",
@@ -23,15 +23,15 @@
   "jei.shops.buying": "玩家购买",
 
   "block.shops.shop.player_balance_card": "插入玩家余额卡",
-  "block.shops.shop.selling_input": "Selling Input",
+  "block.shops.shop.selling_input": "玩家售出",
   "block.shops.shop.catalog": "插入目录",
   "block.shops.shop.output": "商店输出",
   "block.shops.shop.auto_produce": "右击商店中的物品将其设为自动购买",
 
   "entity.shops.pinata_interact": "别打我！我发誓我是空的！",
   "entity.shops.pinata_hit": "我需要一些棍子之类的东西来撬开它！",
-  "entity.shops.pinata": "Pinata",
+  "entity.shops.pinata": "",
   "entity.shops.crate": "板条箱",
 
-  "sounds.shops.coin_collected": "硬币收集"
+  "sounds.shops.coin_collected": "收集硬币"
 }
