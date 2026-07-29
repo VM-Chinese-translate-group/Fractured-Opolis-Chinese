@@ -27,7 +27,7 @@
 	quest.034F5FADEF2EB690.quest_desc: ["使用&#8B4513&l干燥台&r&r制得"]
 	quest.036D85B2500732DE.quest_desc: ["用于制造&l聚合物条&r"]
 	quest.047D74E10724B489.quest_desc: ["使用&l重构机&r制得"]
-	quest.04C204A509F34264.quest_desc: [""]
+	quest.04C204A509F34264.quest_desc: ["&7&l焦炭塔&r&r的下方有两个&l石油焦&r的输出口"]
 	quest.04D8E2A4D39A368C.quest_desc: [
 		"一段时间以后，&#8B4513&l井架&r&r就不会继续产&0&l油&r&r了。"
 		""
@@ -54,7 +54,7 @@
 	]
 	quest.07CC92C56487C17A.title: "铀矿石"
 	quest.07F1BBE40CB19C91.quest_desc: ["可组装高端零件"]
-	quest.08C773C0351D6B12.quest_desc: ["手持此物靠近支持此加装的多方块结构，会显示正确的安装位置"]
+	quest.08C773C0351D6B12.quest_desc: ["手持此物靠近支持加装的多方块结构，会显示正确的安装位置"]
 	quest.08DB10901054DDFA.quest_desc: ["制造电路板至关重要的材料"]
 	quest.098CC4DC658E8EB0.quest_desc: ["终极工作台"]
 	quest.0995D9D8B64CCE33.quest_desc: ["用于点亮从&0&l虚空&r&r前往&6&l破碎沙漠&r&r的传送门"]
@@ -202,7 +202,7 @@
 	quest.1BBC6DDFBEC013A9.title: "更大的合成格"
 	quest.1BC01DAE3349D1A8.quest_desc: [
 		"利用相邻方块间的温差来发电。下表列出了可用的方块。"
-		"{image:fractured:textures/quests/thermo_blocks.png width:120 height:100 align:center}"
+		"{image:fractured:textures/quests/thermo_blocks.png width:75 height:100 align:center}"
 	]
 	quest.1C71A9DF97D202BA.quest_desc: ["使用&5&l重构机&r&r制得"]
 	quest.1C86103C8BC16C91.quest_desc: ["更好的线"]
