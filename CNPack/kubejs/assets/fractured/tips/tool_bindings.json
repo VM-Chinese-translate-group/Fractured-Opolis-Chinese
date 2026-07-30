@@ -1,5 +1,7 @@
 {
   "type": "tipsmod:simple",
   "color": "white",
-  "translate": "tip.fractured.tool_bindings"
+  "text": {
+    "translate": "tip.fractured.tool_bindings"
+  }
 }

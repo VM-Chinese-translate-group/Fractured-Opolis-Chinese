@@ -1,4 +1,4 @@
-ClientEvents.lang("en_us", event => {
+/*ClientEvents.lang("en_us", event => {
 
     event.renameItem('thirst:clay_bowl', 'Grout Bowl')
     event.renameItem('immersiveengineering:component_iron', 'Basic Mechanical Component')
@@ -8,3 +8,4 @@ ClientEvents.lang("en_us", event => {
     event.renameBlock('immersiveengineering:rs_engineering', 'Controller Engineering Block')
         
 })
+*/

@@ -1,5 +1,7 @@
 {
   "type": "tipsmod:simple",
   "color": "white",
-  "translate": "tip.fractured.submerged_2"
+  "text": {
+    "translate": "tip.fractured.submerged_2"
+  }
 }

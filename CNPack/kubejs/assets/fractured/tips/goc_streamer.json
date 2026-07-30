@@ -1,5 +1,7 @@
 {
   "type": "tipsmod:simple",
   "color": "white",
-  "translate": "tip.fractured.goc_streamer"
+  "text": {
+    "translate": "tip.fractured.goc_streamer"
+  }
 }

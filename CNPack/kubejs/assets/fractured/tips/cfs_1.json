@@ -1,5 +1,7 @@
 {
   "type": "tipsmod:simple",
   "color": "white",
-  "translate": "tip.fractured.cfs_1"
+  "text": {
+    "translate": "tip.fractured.cfs_1"
+  }
 }

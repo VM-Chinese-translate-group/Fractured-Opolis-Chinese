@@ -275,5 +275,11 @@
     "tip.fractured.submerged_2": "Have you tried Submerged 2/ Seaopolis 4, Who knows the name?",
     "tip.fractured.techopolis_3": "Have you tried Techopolis 3? Automate the World!",
     "tip.fractured.tool_bindings": "Better bindings make tools last longer!",
-    "tip.fractured.zoom": "Press Z to zoom in!"
+    "tip.fractured.zoom": "Press Z to zoom in!",
+
+    "spawn.sign.text_1": "Use",
+    "spawn.sign.text_2": "/skyblock create",
+    "spawn.sign.text_3": "to start",
+    "spawn.welcome.text.1": "Welcome To",
+    "spawn.welcome.text.2": "Fractured"
 }
