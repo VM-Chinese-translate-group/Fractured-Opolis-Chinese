@@ -170,11 +170,11 @@
     "block.fractured.void_fuel": "虚空燃料",
     "fluid_type.fractured.void_fuel": "虚空燃料",
 
-    "item.thirst.clay_bowl": "黏土碗",
-    "item.immersiveengineering.component_iron": "铁机械零件",
-    "item.immersiveengineering.component_steel": "钢机械零件",
+    "item.thirst.clay_bowl": "泥碗",
+    "item.immersiveengineering.component_iron": "基础机械零件",
+    "item.immersiveengineering.component_steel": "强化机械零件",
     "item.undergarden.catalyst": "深园催化石",
-    "item.immersiveengineering.rs_engineering": "红石工程块",
+    "item.immersiveengineering.rs_engineering": "控制工程块",
 
     "tooltip.fractured.dye_extractor": "用于提取特定方块中的染料。右击可提取的方块即可提取染料。",
     "tooltip.fractured.leafy_binding": "树叶制成的绑定结。提供耐久I效果。",
@@ -275,5 +275,11 @@
     "tip.fractured.submerged_2": "你玩过Submerged 2或者Seaopolis 4吗，它叫哪个名字来着？",
     "tip.fractured.techopolis_3": "你玩过科技城3吗？这个这个还有这个全部自动化！",
     "tip.fractured.tool_bindings": "好的绑定结可以让工具寿命更长！",
-    "tip.fractured.zoom": "按Z键放大！"
+    "tip.fractured.zoom": "按Z键放大！",
+
+    "spawn.sign.text_1": "Use",
+    "spawn.sign.text_2": "/skyblock create",
+    "spawn.sign.text_3": "to start",
+    "spawn.welcome.text.1": "Welcome To",
+    "spawn.welcome.text.2": "Fractured"
 }

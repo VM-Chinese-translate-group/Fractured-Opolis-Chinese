@@ -429,7 +429,7 @@
 	quest.424D10D15BA636FA.quest_desc: ["使用&l材料熔合仓&r制得"]
 	quest.428A3130107930B9.quest_desc: ["可提升&#8B4513&l改良高炉&r&r的工作速率"]
 	quest.42A092A9A7A686C7.quest_desc: ["简易的&#9AC0CD&l桶&r&r，烧炼后才能作为&7&l桶&r&r使用"]
-	quest.42B9D4EEE31560F8.quest_desc: ["&7&l铁机械零件&r&r"]
+	quest.42B9D4EEE31560F8.quest_desc: ["一个&7&l基础的机械零件&r&r"]
 	quest.42BF7B2D2241E6D4.quest_desc: ["&9&l阴郁菇&r&r生成于&0&l深暗之域&r&r生物群系中。&d&l紫颂花&r&r也可以转化为&9&l阴郁菇&r&r"]
 	quest.4358A298CABA59D8.quest_desc: ["[ \"挖掘\", { \"text\": \"铝矿石\", \"underlined\": true, \"color\": \"gray\", \"bold\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7961A2CF4801468B\" } }, \"掉落\"]"]
 	quest.43AD64CEB1ADCBC3.quest_desc: ["让你可在&l商店&r中&l购买&r与&l出售&r一些物品"]
