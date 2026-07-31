@@ -261,8 +261,8 @@
     "tip.fractured.evolved": "你玩过Skyopolis Evolved吗？",
     "tip.fractured.farmopolis": "你玩过Farmopolis吗？一个以建工厂制作各种食物为目的的整合包",
     "tip.fractured.goc": "Gaming on/in Caffeine is not required but highly recommended!",
-    "tip.fractured.goc_streamer": "Gaming on Caffeine is a great streamer, regularity of said streams is not guaranteed",
-    "tip.fractured.goc_weak": "Gaming on Caffeine didn't complete Techopolis 3! Can you?",
+    "tip.fractured.goc_streamer": "Gaming on Caffeine是一位很棒的主播，但他什么时候开播可就说不准了。",
+    "tip.fractured.goc_weak": "Gaming on Caffeine连科技城 3都没能通关！你能做到吗？",
     "tip.fractured.inc": "你玩过Opolis Inc吗？",
     "tip.fractured.jankynik": "JANKY-(nik)-ness is encouraged! Thanks Neb",
     "tip.fractured.melanx": "空岛建立者是个好东西，请别尝试破坏它！",
@@ -277,9 +277,9 @@
     "tip.fractured.tool_bindings": "好的绑定结可以让工具寿命更长！",
     "tip.fractured.zoom": "按Z键放大！",
 
-    "spawn.sign.text_1": "Use",
+    "spawn.sign.text_1": "输入",
     "spawn.sign.text_2": "/skyblock create",
-    "spawn.sign.text_3": "to start",
-    "spawn.welcome.text.1": "Welcome To",
-    "spawn.welcome.text.2": "Fractured"
+    "spawn.sign.text_3": "开始游戏",
+    "spawn.welcome.text.1": "欢迎来到",
+    "spawn.welcome.text.2": "破碎城"
 }
