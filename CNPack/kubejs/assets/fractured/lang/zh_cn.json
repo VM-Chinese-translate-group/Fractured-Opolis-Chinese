@@ -254,17 +254,17 @@
     "tip.fractured.ben": "加入我们的discord！输入/discord试试",
     "tip.fractured.bucks": "很多任务都可以获得B币奖励！",
     "tip.fractured.casting": "你有没有尝试过Casting模组的多方块机器？效率很高哦！",
-    "tip.fractured.cfs_1": "Miles get in the Jacuzzi",
-    "tip.fractured.cfs_2": "Lewis get in the Jacuzzi",
+    "tip.fractured.cfs_1": "Miles快进按摩浴缸",
+    "tip.fractured.cfs_2": "Lewis快进按摩浴缸",
     "tip.fractured.cloche": "玻璃罩可以种树苗、种子和作物。在世界里种菜这种事情完全不需要考虑啦！",
     "tip.fractured.contained": "你玩过Contained A Space Adventure吗？",
     "tip.fractured.evolved": "你玩过Skyopolis Evolved吗？",
     "tip.fractured.farmopolis": "你玩过Farmopolis吗？一个以建工厂制作各种食物为目的的整合包",
-    "tip.fractured.goc": "Gaming on/in Caffeine is not required but highly recommended!",
+    "tip.fractured.goc": "不要求边喝咖啡边玩，但强烈推荐！",
     "tip.fractured.goc_streamer": "Gaming on Caffeine是一位很棒的主播，但他什么时候开播可就说不准了。",
     "tip.fractured.goc_weak": "Gaming on Caffeine连科技城 3都没能通关！你能做到吗？",
     "tip.fractured.inc": "你玩过Opolis Inc吗？",
-    "tip.fractured.jankynik": "JANKY-(nik)-ness is encouraged! Thanks Neb",
+    "tip.fractured.jankynik": "鼓励JANKY-(nik)-ness风格！感谢Neb",
     "tip.fractured.melanx": "空岛建立者是个好东西，请别尝试破坏它！",
     "tip.fractured.modpack_version": "输入/modpack可以查看整合包版本！",
     "tip.fractured.server": "想要自己的服务器？去主菜单，点击多人游戏，从Bisect那里搞一个来！",
@@ -282,4 +282,5 @@
     "spawn.sign.text_3": "开始游戏",
     "spawn.welcome.text.1": "欢迎来到",
     "spawn.welcome.text.2": "破碎城"
+
 }
