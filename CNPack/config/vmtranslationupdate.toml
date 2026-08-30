@@ -4,9 +4,9 @@ autoSwitchLanguage = true
 checkModPackTranslationUpdate = true
 [resourcePack]
 autoDownloadVMTranslationPack = false
-autoLoadExtraTranslationPack = false
-resourcePackIndex = "DEFAULT"
-extraPackName = ""
+autoLoadExtraTranslationPack = true
+resourcePackIndex = "TOP_OF_CFPA"
+extraPackName = "VM Language Override"
 extraPackCustomIndex = 0
 [modInstallCheck]
 i18nUpdateMod = true
